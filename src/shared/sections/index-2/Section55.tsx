@@ -6,11 +6,11 @@ import type { Swiper as SwiperInstance } from "swiper";
 import { Autoplay, FreeMode, Thumbs } from "swiper/modules";
 
 const AVATARS = [
-    { src: "src/Customimages/Untitled design (5).png", alt: "orisa", thumbClass: "thumb-slide-1" },
-    { src: "src/Customimages/Untitled design (4).png", alt: "orisa", thumbClass: "thumb-slide-2" },
-    { src: "src/Customimages/Untitled design (3).png", alt: "orisa", thumbClass: "thumb-slide-3" },
-    { src: "src/Customimages/Untitled design (2).png", alt: "orisa", thumbClass: "thumb-slide-4" },
-    { src: "src/Customimages/Untitled design (1).png", alt: "orisa", thumbClass: "thumb-slide-5" },
+    { src: "/assets/imgs/custom/custom-5.png", alt: "klarus", thumbClass: "thumb-slide-1" },
+    { src: "/assets/imgs/custom/custom-4.png", alt: "klarus", thumbClass: "thumb-slide-2" },
+    { src: "/assets/imgs/custom/custom-3.png", alt: "klarus", thumbClass: "thumb-slide-3" },
+    { src: "/assets/imgs/custom/custom-2.png", alt: "klarus", thumbClass: "thumb-slide-4" },
+    { src: "/assets/imgs/custom/custom-1.png", alt: "klarus", thumbClass: "thumb-slide-5" },
 ];
 
 const QUOTE_TEXT = (
