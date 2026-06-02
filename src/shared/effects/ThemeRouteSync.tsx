@@ -17,11 +17,10 @@ export default function ThemeRouteSync() {
         } catch {
             /* ignore */
         }
-        if (theme === "dark" || theme === "light") {
+        if (theme === "light" || theme === "dark") {
             html.setAttribute("data-bs-theme", theme);
         } else {
-            const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-            html.setAttribute("data-bs-theme", prefersDark ? "dark" : "light");
+            html.setAttribute("data-bs-theme", "light");
         }
     }, [pathname]);
 

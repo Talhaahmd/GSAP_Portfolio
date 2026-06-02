@@ -82,13 +82,16 @@ const PORTFOLIO_CARDS = [
 type Brand = { src: string; width: number; height: number };
 
 const BRANDS: Brand[] = [
-    { src: "/assets/imgs/template/logo/logo-brand-09.webp", width: 117, height: 32 },
-    { src: "/assets/imgs/template/logo/logo-brand-01.webp", width: 130, height: 33 },
-    { src: "/assets/imgs/template/logo/logo-brand-02.webp", width: 130, height: 38 },
-    { src: "/assets/imgs/template/logo/logo-brand-03.webp", width: 125, height: 27 },
-    { src: "/assets/imgs/template/logo/logo-brand-04.webp", width: 105, height: 24 },
-    { src: "/assets/imgs/template/logo/logo-brand-10.webp", width: 135, height: 48 },
-    { src: "/assets/imgs/template/logo/logo-brand-06.webp", width: 125, height: 28 },
+    { src: "/assets/imgs/template/logo/1.png", width: 120, height: 40 },
+    { src: "/assets/imgs/template/logo/2.png", width: 120, height: 40 },
+    { src: "/assets/imgs/template/logo/3.png", width: 120, height: 40 },
+    { src: "/assets/imgs/template/logo/4.png", width: 120, height: 40 },
+    { src: "/assets/imgs/template/logo/5.png", width: 120, height: 40 },
+    { src: "/assets/imgs/template/logo/6.png", width: 120, height: 40 },
+    { src: "/assets/imgs/template/logo/7.png", width: 120, height: 40 },
+    { src: "/assets/imgs/template/logo/8.png", width: 120, height: 40 },
+    { src: "/assets/imgs/template/logo/9.png", width: 120, height: 40 },
+    { src: "/assets/imgs/template/logo/10.png", width: 120, height: 40 },
 ];
 
 export default function Section4() {
@@ -243,28 +246,26 @@ export default function Section4() {
                         <div className="col-lg-6">
                             <span className="neutral-500 fw-600 text-uppercase">trusted by</span>
                             <div className="d-flex align-items-center flex-wrap gap-lg-5 gap-4 mb-40 pt-30">
-                                {BRANDS.slice(0, 3).map((brand, i) => (
+                                {BRANDS.slice(0, 5).map((brand, i) => (
                                     <div key={i} className="brand">
                                         <img
                                             src={brand.src}
-                                            alt={`Brand ${i + 1}`}
+                                            alt={`Client ${i + 1}`}
                                             width={brand.width}
                                             height={brand.height}
-                                            className="dark-mode-invert"
-                                            style={{ height: 30, width: "auto" }} loading="lazy" />
+                                            style={{ height: 32, width: "auto" }} loading="lazy" />
                                     </div>
                                 ))}
                             </div>
                             <div className="d-flex align-items-center flex-wrap gap-lg-5 gap-4">
-                                {BRANDS.slice(3, 7).map((brand, i) => (
+                                {BRANDS.slice(5, 10).map((brand, i) => (
                                     <div key={i} className="brand">
                                         <img
                                             src={brand.src}
-                                            alt={`Brand ${i + 4}`}
+                                            alt={`Client ${i + 6}`}
                                             width={brand.width}
                                             height={brand.height}
-                                            className="dark-mode-invert"
-                                            style={{ height: 30, width: "auto" }} loading="lazy" />
+                                            style={{ height: 32, width: "auto" }} loading="lazy" />
                                     </div>
                                 ))}
                             </div>

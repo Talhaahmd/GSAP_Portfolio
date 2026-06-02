@@ -29,7 +29,7 @@ export const useTheme = () => {
                 if (applied === "light" || applied === "dark") return applied;
                 const stored = localStorage.getItem("theme") as Theme | null;
                 if (stored === "light" || stored === "dark") return stored;
-                return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+                return "light";
             } catch {
                 return "light";
             }
