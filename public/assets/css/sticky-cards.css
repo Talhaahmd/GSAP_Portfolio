@@ -1,0 +1,74 @@
+/* ============================================================
+   Sticky cards — page-scoped overrides for the GSAP/ScrollTrigger
+   stacked-cards effect used on home-15 / sec-4.
+   Loaded ONLY on index-15.html (after main.css) so the
+   selectors override the default flex layout for .sec-4-home-15__cards.
+   ============================================================ */
+
+/* Title-bar and repo strip must always paint above the absolutely-
+   positioned cards so the cards never visually crawl over them
+   during scroll-into-view / pin transitions. */
+.sec-4-home-15__title-bar {
+    position: relative;
+    z-index: 10;
+    background-color: var(--at-neutral-0);
+}
+
+.sec-4-home-15__repos {
+    position: relative;
+    z-index: 10;
+    background-color: var(--at-neutral-0);
+}
+
+.sec-4-home-15__cards {
+    position: relative;
+    display: block;
+    gap: 0;
+    height: 100vh;
+    margin: 0 auto;
+    perspective: 1000px;
+}
+
+/* Card width is capped so the height derived from the aspect ratio
+   never exceeds the parent's content area. This keeps a guaranteed
+   gap above (and below) the card — even on short viewports — so the
+   centered card never reaches up into the title-bar's vertical band. */
+.sec-4-home-15__card {
+    --sec4-gap: 140px; /* vertical breathing room (split top + bottom) */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: min(100%, calc((100vh - var(--sec4-gap)) * 1428 / 1011));
+    max-width: 100%;
+    aspect-ratio: 1428 / 1011;
+    height: auto;
+    transform-origin: center bottom;
+    will-change: transform;
+}
+
+.sec-4-home-15__card:nth-child(1) { z-index: 5; }
+.sec-4-home-15__card:nth-child(2) { z-index: 4; }
+.sec-4-home-15__card:nth-child(3) { z-index: 3; }
+.sec-4-home-15__card:nth-child(4) { z-index: 2; }
+.sec-4-home-15__card:nth-child(5) { z-index: 1; }
+
+@media (max-width: 991.98px) {
+    .sec-4-home-15__cards {
+        height: 80vh;
+    }
+    .sec-4-home-15__card {
+        --sec4-gap: 100px;
+        width: min(100%, calc((80vh - var(--sec4-gap)) * 1428 / 1011));
+    }
+}
+
+@media (max-width: 575.98px) {
+    .sec-4-home-15__cards {
+        height: 70vh;
+    }
+    .sec-4-home-15__card {
+        --sec4-gap: 80px;
+        width: min(100%, calc((70vh - var(--sec4-gap)) * 4 / 5));
+        aspect-ratio: 4 / 5;
+    }
+}
