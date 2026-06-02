@@ -122,8 +122,7 @@ export default function MenuClone() {
       const clone = sourceUl.cloneNode(true) as HTMLElement;
       targetNav.innerHTML = "";
       targetNav.appendChild(clone);
-      const insideOffcanvas2 = !!(targetNav as HTMLElement).closest(".at-offcanvas-2-area");
-      const cleanup = setupClone(clone, { flattenLinkSwap: insideOffcanvas2 });
+      const cleanup = setupClone(clone, { flattenLinkSwap: true });
       if (cleanup) cleanups.push(cleanup);
     });
 
