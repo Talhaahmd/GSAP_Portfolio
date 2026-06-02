@@ -28,7 +28,7 @@ export default function Section2() {
                 <div className="sec-2-home-14__main">
                     <div className="sec-2-home-14__portrait-col">
                         <figure className="sec-2-home-14__portrait anim-zoomin-wrap mb-0">
-                            <img className="sec-2-home-14__portrait-img anim-zoomin" src="/assets/imgs/pages/home-14/sec-2-portrait.webp" alt="Orisa" loading="lazy" />
+                            <img className="sec-2-home-14__portrait-img anim-zoomin" src="/assets/imgs/pages/home-14/sec-2-portrait.webp" alt="Klarus AI" loading="lazy" />
                             <figcaption className="sec-2-home-14__portrait-overlay">
                                 <p className="sec-2-home-14__portrait-tag mb-0">[ PORTRAIT &mdash; STUDIO 04F ]</p>
                                 <div className="sec-2-home-14__portrait-caption">

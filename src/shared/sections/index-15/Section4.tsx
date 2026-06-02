@@ -46,7 +46,7 @@ export default function Section4() {
                 <div className="sec-4-home-15__cards">
                     {PROJECTS.map((p) => (
                         <Link key={p.name} className="sec-4-home-15__card anim-zoomin-wrap" to="/portfolio-details-1" aria-label={`View case: ${p.name}`}>
-                            <img className="sec-4-home-15__card-img anim-zoomin" src={`/assets/imgs/pages/home-15/${p.img}`} alt="Orisa" loading="lazy" />
+                            <img className="sec-4-home-15__card-img anim-zoomin" src={`/assets/imgs/pages/home-15/${p.img}`} alt="Klarus AI" loading="lazy" />
                             {p.featured && <span className="sec-4-home-15__card-badge">Featured case</span>}
                             <span className="sec-4-home-15__card-bar">
                                 <span className="sec-4-home-15__card-name">{p.name}</span>

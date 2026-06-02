@@ -11,8 +11,8 @@ export default function Header13() {
                                 <div className="col-xxl-3 col-lg-1 col-6">
                                     <div className="at-header-logo">
                                         <Link to="/" className="d-inline-flex align-items-center gap-2 text-decoration-none">
-                                            <img src="/assets/imgs/template/logo/favicon.svg" alt="Orisa" loading="lazy" />
-                                            <p className="h6 fw-700 fz-24 mb-0">Orisa</p>
+                                            <img src="/assets/imgs/template/logo/favicon.svg" alt="Klarus AI" loading="lazy" />
+                                            <p className="h6 fw-700 fz-24 mb-0">Klarus AI</p>
                                         </Link>
                                     </div>
                                 </div>

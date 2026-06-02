@@ -61,7 +61,7 @@ export default function Section5({ classList = "" }: { classList?: string }) {
                                                     <img
                                                         className="w-100"
                                                         src={src}
-                                                        alt="orisa"
+                                                        alt="Klarus AI"
                                                         width={620}
                                                         height={780}
                                                         style={{ width: "100%", height: "auto", objectFit: "cover" }} loading="lazy" />

@@ -31,7 +31,7 @@ export default function Section3() {
                                 <div className="brand">
                                     {slide.logos.map((logo) => (
                                         <span key={logo} className="brand-logo-slide" data-logo={logo}>
-                                            <img className="dark-mode-invert" src={`/assets/imgs/template/logo/logo-brand-${logo}.webp`} alt="Orisa" loading="lazy" />
+                                            <img className="dark-mode-invert" src={`/assets/imgs/template/logo/logo-brand-${logo}.webp`} alt="Klarus AI" loading="lazy" />
                                         </span>
                                     ))}
                                 </div>

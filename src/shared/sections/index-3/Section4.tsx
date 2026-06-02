@@ -180,7 +180,7 @@ export default function Section4() {
                                                     </div>
                                                     <div className="col-xxl-5 col-lg-6 col-md-5 offset-xxl-1 d-none d-md-block">
                                                         <div className="rounded-3 overflow-hidden">
-                                                            <img className="img-cover" src={card.img} alt="orisa" width={500} height={350} loading="lazy" />
+                                                            <img className="img-cover" src={card.img} alt="Klarus AI" width={500} height={350} loading="lazy" />
                                                         </div>
                                                     </div>
                                                 </div>

@@ -11,7 +11,7 @@ export default function Section1() {
         <section className="sec-1-home-15 pt-100" aria-label="Agency hero">
             <div className="container">
                 <div className="sec-1-home-15__card ripple-image ripples">
-                    <img className="sec-1-home-15__bg" src="/assets/imgs/pages/home-15/sec-1-hero.webp" alt="Orisa" fetchPriority="high" loading="lazy" />
+                    <img className="sec-1-home-15__bg" src="/assets/imgs/pages/home-15/sec-1-hero.webp" alt="Klarus AI" fetchPriority="high" loading="lazy" />
                     <span className="sec-1-home-15__grid" aria-hidden="true" style={{ backgroundImage: "url('/assets/imgs/pages/home-15/sec-1-lines.svg')" }}></span>
 
                     <div className="sec-1-home-15__top">
@@ -22,7 +22,7 @@ export default function Section1() {
                             </svg>
                             <span className="sec-1-home-15__coord-label text-scramble text-white">27.1127&deg; S, 109.3497&deg; W</span>
                         </span>
-                        <a className="sec-1-home-15__email at_fade_anim text-white" data-fade-from="top" data-delay=".3" href="mailto:hello@orisa.com">hello@orisa.com</a>
+                        <a className="sec-1-home-15__email at_fade_anim text-white" data-fade-from="top" data-delay=".3" href="mailto:info@klarus.io">info@klarus.io</a>
                     </div>
 
                     <span className="sec-1-home-15__scroll" aria-hidden="true">
@@ -43,7 +43,7 @@ export default function Section1() {
                         <div className="sec-1-home-15__clients at_fade_anim" data-fade-from="bottom" data-delay=".4">
                             <div className="sec-1-home-15__avatars" aria-hidden="true">
                                 {[1, 2, 3, 4, 5].map((n) => (
-                                    <img key={n} className="sec-1-home-15__avatar" src={`/assets/imgs/pages/home-15/sec-1-avatar-${n}.webp`} alt="Orisa" loading="lazy" />
+                                    <img key={n} className="sec-1-home-15__avatar" src={`/assets/imgs/pages/home-15/sec-1-avatar-${n}.webp`} alt="Klarus AI" loading="lazy" />
                                 ))}
                             </div>
                             <p className="sec-1-home-15__clients-text mb-0 text-white">Trusted by over 16k+<br />customers worldwide.</p>
@@ -52,7 +52,7 @@ export default function Section1() {
                 </div>
 
                 <div className="sec-1-home-15__title-block">
-                    <h1 className="sec-1-home-15__title mb-3 at_fade_anim">Orisa Agency Portfolio</h1>
+                    <h1 className="sec-1-home-15__title mb-3 at_fade_anim">Klarus AI Agency Portfolio</h1>
                     <div className="sec-1-home-15__title-meta">
                         <span className="sec-1-home-15__title-side at_fade_anim" data-fade-from="left" data-delay=".4">Based in Kyoto</span>
                         <span className="sec-1-home-15__title-side at_fade_anim" data-fade-from="right" data-delay=".4">Since 2012</span>

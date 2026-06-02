@@ -171,7 +171,7 @@ export default function Section1() {
                                     ))}
                                 </div>
                                 <p className="sec-1-home-7__proof-text text-white fw-700 mb-0 at_fade_anim" data-start="100%" data-delay="0.6">
-                                    500+ Ventures scaled with <br className="d-none d-xl-inline" />Orisa global expertise
+                                    500+ Ventures scaled with <br className="d-none d-xl-inline" />Klarus AI global expertise
                                 </p>
                             </div>
                         </div>

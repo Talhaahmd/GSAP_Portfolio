@@ -39,7 +39,7 @@ export default function Section2() {
                     <div className="sec-2-home-9__lines" aria-hidden="true">
                         <img
                             src="/assets/imgs/pages/home-9/sec-2-lines.svg"
-                            alt="orisa"
+                            alt="Klarus AI"
                             width={1720}
                             height={33}
                             loading="lazy"

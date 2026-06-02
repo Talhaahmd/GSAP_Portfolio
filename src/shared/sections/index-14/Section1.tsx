@@ -38,11 +38,11 @@ export default function Section1() {
                 </div>
 
                 <figure className="sec-1-home-14__hero anim-zoomin-wrap">
-                    <img className="sec-1-home-14__hero-img anim-zoomin" data-speed=".8" src="/assets/imgs/pages/home-14/sec-1-hero.webp" alt="Orisa" loading="lazy" />
+                    <img className="sec-1-home-14__hero-img anim-zoomin" data-speed=".8" src="/assets/imgs/pages/home-14/sec-1-hero.webp" alt="Klarus AI" loading="lazy" />
                     <div className="sec-1-home-14__hero-overlay">
                         <div className="sec-1-home-14__hero-top">
                             <p className="sec-1-home-14__hero-caption mb-0 text-white">[ FRAME 01 &mdash; URBAN SOUL ]</p>
-                            <p className="sec-1-home-14__hero-credit mb-0 text-white">Photograph by Studio Orisa &middot; &middot; 2025</p>
+                            <p className="sec-1-home-14__hero-credit mb-0 text-white">Photograph by Studio Klarus AI &middot; &middot; 2025</p>
                         </div>
                         <div className="sec-1-home-14__hero-bottom">
                             <div className="sec-1-home-14__hero-meta">

@@ -56,10 +56,10 @@ export default function Section1() {
                     <div className="sec-1-home-12__hero-inner d-flex flex-column align-items-center text-center">
                         <div className="sec-1-home-12__pill at_fade_anim" data-fade-from="bottom" data-delay=".05">
                             <div className="sec-1-home-12__avatars" aria-hidden="true">
-                                <img className="sec-1-home-12__avatar" src="/assets/imgs/pages/home-12/sec-1-avatar-1.webp" alt="Orisa" loading="lazy" />
-                                <img className="sec-1-home-12__avatar" src="/assets/imgs/pages/home-12/sec-1-avatar-2.webp" alt="Orisa" loading="lazy" />
-                                <img className="sec-1-home-12__avatar" src="/assets/imgs/pages/home-12/sec-1-avatar-3.webp" alt="Orisa" loading="lazy" />
-                                <img className="sec-1-home-12__avatar" src="/assets/imgs/pages/home-12/sec-1-avatar-4.webp" alt="Orisa" loading="lazy" />
+                                <img className="sec-1-home-12__avatar" src="/assets/imgs/pages/home-12/sec-1-avatar-1.webp" alt="Klarus AI" loading="lazy" />
+                                <img className="sec-1-home-12__avatar" src="/assets/imgs/pages/home-12/sec-1-avatar-2.webp" alt="Klarus AI" loading="lazy" />
+                                <img className="sec-1-home-12__avatar" src="/assets/imgs/pages/home-12/sec-1-avatar-3.webp" alt="Klarus AI" loading="lazy" />
+                                <img className="sec-1-home-12__avatar" src="/assets/imgs/pages/home-12/sec-1-avatar-4.webp" alt="Klarus AI" loading="lazy" />
                             </div>
                             <span className="sec-1-home-12__pill-text">300+ Curated Portfolios</span>
                         </div>
@@ -95,7 +95,7 @@ export default function Section1() {
                     <div className="swiper-wrapper">
                         {slides.map((t, i) => (
                             <Link key={i} className={`swiper-slide sec-1-home-12__tile sec-1-home-12__tile--${t.mod}`} to="/portfolio-1" aria-label={`View portfolio item ${i + 1}`}>
-                                <img className="sec-1-home-12__tile-img" src={`/assets/imgs/pages/home-12/${t.img}`} alt="Orisa" loading="lazy" />
+                                <img className="sec-1-home-12__tile-img" src={`/assets/imgs/pages/home-12/${t.img}`} alt="Klarus AI" loading="lazy" />
                             </Link>
                         ))}
                     </div>

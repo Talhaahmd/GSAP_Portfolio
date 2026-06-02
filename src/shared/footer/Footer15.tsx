@@ -82,8 +82,8 @@ export default function Footer15() {
 
                 <section className="footer-15__panel footer-15__panel--brand at_fade_anim" data-fade-from="bottom" data-delay=".3" aria-label="Brand and services">
                     <div className="footer-15__brand-head">
-                        <Link className="footer-15__brand-mark" to="/index-15" aria-label="Orisa home">
-                            <img className="footer-15__brand-icon" src="/assets/imgs/template/logo/logo-w.svg" alt="Orisa" loading="lazy" />
+                        <Link className="footer-15__brand-mark" to="/index-15" aria-label="Klarus AI home">
+                            <img className="footer-15__brand-icon" src="/assets/imgs/template/logo/logo-w.svg" alt="Klarus AI" loading="lazy" />
                         </Link>
                         <h2 className="footer-15__brand-title mb-0">
                             <span className="footer-15__brand-title-strong">Let&rsquo;s Sha</span><span className="footer-15__brand-title-muted">pe Your Next Idea</span>
@@ -104,15 +104,15 @@ export default function Footer15() {
 
                 <section className="footer-15__panel footer-15__panel--contact at_fade_anim" data-fade-from="bottom" data-delay=".4" aria-label="Contact and legal">
                     <div className="footer-15__contact-row">
-                        <p className="footer-15__intro mb-0">Orisa is a digital agency creating impactful digital experiences. We think like strategists and execute with clarity, creativity, and performance.</p>
+                        <p className="footer-15__intro mb-0">Klarus AI is a digital agency creating impactful digital experiences. We think like strategists and execute with clarity, creativity, and performance.</p>
                         <address className="footer-15__contact mb-0">
                             <a className="footer-15__contact-line" href="tel:+2125557398">+212 &ndash; 555-7398</a>
-                            <a className="footer-15__contact-line" href="mailto:hello@orisa.com">hello@orisa.com</a>
+                            <a className="footer-15__contact-line" href="mailto:info@klarus.io">info@klarus.io</a>
                             <span className="footer-15__contact-line">245 Fifth Avenue, Suite 1800<br />New York, NY 10016, USA</span>
                         </address>
                     </div>
                     <div className="footer-15__legal">
-                        <p className="footer-15__copy mb-0">Orisa &copy; 2026</p>
+                        <p className="footer-15__copy mb-0">Klarus AI &copy; 2026</p>
                         <ul className="footer-15__legal-links list-unstyled mb-0">
                             <li><a href="#">Privacy Policy</a></li>
                             <li><a href="#">Terms of Use</a></li>

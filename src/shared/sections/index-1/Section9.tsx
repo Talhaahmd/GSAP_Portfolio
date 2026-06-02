@@ -48,7 +48,7 @@ export default function Section9() {
                                 </span>
                                 <h3 className="at-section-title reveal-text mb-lg-0 mb-4">
                                     <RevealText>
-                                        Meet the minds behind Orisa Studio. Rely on our experienced professionals to find
+                                        Meet the minds behind Klarus AI Studio. Rely on our experienced professionals to find
                                         solutions tailored just for you.
                                     </RevealText>
                                 </h3>
@@ -86,7 +86,7 @@ export default function Section9() {
                                                     <br className="d-block" />
                                                     Email:{" "}
                                                     <span className="neutral-900">
-                                                        <a href="mailto:hello@orisa.com">hello@orisa.com</a>
+                                                        <a href="mailto:info@klarus.io">info@klarus.io</a>
                                                     </span>
                                                 </span>
                                                 <span className="fz-font-md neutral-500 ps-md-5">
@@ -101,7 +101,7 @@ export default function Section9() {
                                                     <br className="d-block" />
                                                     Email:{" "}
                                                     <span className="neutral-900">
-                                                        <a href="mailto:sale@orisa.com">sale@orisa.com</a>
+                                                        <a href="mailto:info@klarus.io">info@klarus.io</a>
                                                     </span>
                                                 </span>
                                             </div>

@@ -61,7 +61,7 @@ export default function Section12() {
                     data-speed=".4"
                     className="img-cover"
                     src="/assets/imgs/pages/img-22.webp"
-                    alt="orisa" loading="lazy" />
+                    alt="Klarus AI" loading="lazy" />
             </div>
             <div className="position-absolute top-0 bottom-0 start-0 end-0">
                 <div className="container">
@@ -73,11 +73,11 @@ export default function Section12() {
                                         <img
                                             data-width="30"
                                             src="/assets/imgs/template/logo/favicon-dark.svg"
-                                            alt="Orisa"
+                                            alt="Klarus AI"
                                             width={30}
                                             height={30}
                                             style={{ width: "auto", height: "auto" }} loading="lazy" />
-                                        <h6 className="fw-700 fz-24 text-white mb-0">Orisa</h6>
+                                        <h6 className="fw-700 fz-24 text-white mb-0">Klarus AI</h6>
                                     </Link>
                                 </div>
                                 <Link
@@ -113,7 +113,7 @@ export default function Section12() {
                         </div>
                         <div className="col-lg-4 col-md-6 ms-auto text-end">
                             <span className="common-white fz-font-lg">
-                                [ A creative studio crafting bold, user-focused digital experiences. At Orisa, we blend
+                                [ A creative studio crafting bold, user-focused digital experiences. At Klarus AI, we blend
                                 strategy, design, and innovation to help brands stand out and grow. ]
                             </span>
                         </div>

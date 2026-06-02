@@ -5,7 +5,7 @@ import Section2 from "@/shared/sections/product-cart/Section2";
 export default function ProductCartPage() {
   return (
     <>
-      <PageMeta title="Orisa - ProductCart" />
+      <PageMeta title="Klarus AI - ProductCart" />
                 <Section1 />
                 <Section2 />
             

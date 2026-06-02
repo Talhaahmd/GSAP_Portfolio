@@ -32,7 +32,7 @@ export default function Section3() {
                         <div className="row g-xxl-5 g-4">
                             <div className="col-xxl-5 col-lg-12 col-md-5 col-12 d-lg-none d-xxl-block">
                                 <div className="img-left ripple-image ripples">
-                                    <img src="/assets/imgs/pages/img-56.webp" alt="orisa" width={325} height={335} className="img-cover" loading="lazy" />
+                                    <img src="/assets/imgs/pages/img-56.webp" alt="Klarus AI" width={325} height={335} className="img-cover" loading="lazy" />
                                 </div>
                             </div>
                             <div className="col-xxl-7 col-lg-12 col-md-7 col-12">
@@ -42,7 +42,7 @@ export default function Section3() {
                                         <h4 className="reveal-text">Trusted by fast-growing brands worldwide</h4>
                                     </div>
                                     <div className="img-right">
-                                        <img src="/assets/imgs/pages/img-57.webp" alt="orisa" width={470} height={350} loading="lazy" />
+                                        <img src="/assets/imgs/pages/img-57.webp" alt="Klarus AI" width={470} height={350} loading="lazy" />
                                     </div>
                                 </div>
                             </div>
@@ -67,7 +67,7 @@ export default function Section3() {
                                                             decoding="async"
                                                             className="dark-mode-invert"
                                                             src={logoSrc(num)}
-                                                            alt="orisa"
+                                                            alt="Klarus AI"
                                                             width={100}
                                                             height={40} loading="lazy" />
                                                     </span>
@@ -98,7 +98,7 @@ export default function Section3() {
                                                             decoding="async"
                                                             className="dark-mode-invert"
                                                             src={logoSrc(num)}
-                                                            alt="orisa"
+                                                            alt="Klarus AI"
                                                             width={100}
                                                             height={40} loading="lazy" />
                                                     </span>

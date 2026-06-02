@@ -71,7 +71,7 @@ export default function Section4() {
                             <img
                                 className="img-cover"
                                 src="/assets/imgs/pages/product/img-shop-1.webp"
-                                alt="orisa"
+                                alt="Klarus AI"
                                 width={800}
                                 height={600} loading="lazy" />
                             <div className="p-absolute bottom-0 start-0 m-lg-5 m-4">
@@ -93,7 +93,7 @@ export default function Section4() {
                             <img
                                 className="img-cover"
                                 src="/assets/imgs/pages/product/img-shop-2.webp"
-                                alt="orisa"
+                                alt="Klarus AI"
                                 width={800}
                                 height={600} loading="lazy" />
                             <div className="p-absolute bottom-0 start-0 m-lg-5 m-4">
@@ -149,7 +149,7 @@ export default function Section4() {
                             <img
                                 className="img-cover"
                                 src="/assets/imgs/pages/product/img-shop-3.webp"
-                                alt="orisa"
+                                alt="Klarus AI"
                                 width={1920}
                                 height={1080} loading="lazy" />
                             <div className="p-absolute bottom-0 start-0 m-lg-5 m-4">

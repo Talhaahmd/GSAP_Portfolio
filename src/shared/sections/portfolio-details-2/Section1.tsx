@@ -11,11 +11,11 @@ const ARROW_SVG = (
 );
 
 const SLIDER_IMAGES = [
-    { src: "/assets/imgs/pages/img-177.webp", alt: "orisa" },
-    { src: "/assets/imgs/pages/img-176.webp", alt: "orisa" },
-    { src: "/assets/imgs/pages/img-178.webp", alt: "orisa" },
-    { src: "/assets/imgs/pages/img-179.webp", alt: "orisa" },
-    { src: "/assets/imgs/pages/img-180.webp", alt: "orisa" },
+    { src: "/assets/imgs/pages/img-177.webp", alt: "Klarus AI" },
+    { src: "/assets/imgs/pages/img-176.webp", alt: "Klarus AI" },
+    { src: "/assets/imgs/pages/img-178.webp", alt: "Klarus AI" },
+    { src: "/assets/imgs/pages/img-179.webp", alt: "Klarus AI" },
+    { src: "/assets/imgs/pages/img-180.webp", alt: "Klarus AI" },
 ];
 
 const NEBULA_INTRO =
@@ -60,7 +60,7 @@ export default function Section1() {
                     <div className="col-12 pt-30">
                         <img
                             src="/assets/imgs/pages/img-181.webp"
-                            alt="orisa"
+                            alt="Klarus AI"
                             width={1200}
                             height={700}
                             className="w-100" loading="lazy" />
@@ -71,7 +71,7 @@ export default function Section1() {
                     <div className="col-lg-5 pr-100 pb-lg-0 pb-40">
                         <img
                             src="/assets/imgs/pages/img-182.webp"
-                            alt="orisa"
+                            alt="Klarus AI"
                             width={600}
                             height={650}
                             className="w-100" loading="lazy" />
@@ -165,7 +165,7 @@ export default function Section1() {
                                 <div className="testimonial-left-img size-50 rounded-3 overflow-hidden">
                                     <img
                                         src="/assets/imgs/template/avatar/avatar-20.webp"
-                                        alt="orisa"
+                                        alt="Klarus AI"
                                         width={50}
                                         height={50}
                                         className="img-cover" loading="lazy" />
@@ -173,7 +173,7 @@ export default function Section1() {
                             </div>
                             <div className="testimonial-content">
                                 <p className="fz-3xl neutral-900 fw-400">
-                                    &quot;Orisa completely transformed how we present our brand online. Their strategic
+                                    &quot;Klarus AI completely transformed how we present our brand online. Their strategic
                                     mindset and attention to detail resulted in a digital experience that feels both
                                     refined and high-performing.&quot;
                                 </p>
@@ -189,7 +189,7 @@ export default function Section1() {
                     <div className="col-12 pb-50">
                         <img
                             src="/assets/imgs/pages/img-187.webp"
-                            alt="orisa"
+                            alt="Klarus AI"
                             width={1200}
                             height={700}
                             className="w-100" loading="lazy" />
@@ -197,7 +197,7 @@ export default function Section1() {
                     <div className="col-12">
                         <img
                             src="/assets/imgs/pages/img-188.webp"
-                            alt="orisa"
+                            alt="Klarus AI"
                             width={1200}
                             height={700}
                             className="w-100" loading="lazy" />

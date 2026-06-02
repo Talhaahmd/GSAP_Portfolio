@@ -113,7 +113,7 @@ export default function Section1() {
                                         <div key={i} className="sec-1-home-4__card rounded-3 overflow-hidden">
                                             <img
                                                 src={src}
-                                                alt="orisa"
+                                                alt="Klarus AI"
                                                 width={280}
                                                 height={200}
                                                 className="img-cover w-100 h-100" loading="lazy" />

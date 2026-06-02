@@ -144,7 +144,7 @@ export default function Footer9() {
                                     <Link to="tel:+12125557398">+212 - 555-7398</Link>
                                 </p>
                                 <p className="footer-9__contact-line mb-0 at_fade_anim" data-delay="0.2">
-                                    <Link to="mailto:hello@orisa.com">hello@orisa.com</Link>
+                                    <Link to="mailto:info@klarus.io">info@klarus.io</Link>
                                 </p>
                                 <p className="footer-9__address mb-0 at_fade_anim" data-delay="0.3">
                                     245 Fifth Avenue, Suite 1800<br />New York, NY 10016, USA
@@ -180,11 +180,11 @@ export default function Footer9() {
                     </div>
                 </div>
 
-                <h2 className="footer-9__brand text-scale-anim">Orisa Morden Studio</h2>
+                <h2 className="footer-9__brand text-scale-anim">Klarus AI</h2>
 
                 <div className="footer-9__bottom">
                     <div className="footer-9__bottom-bar d-flex flex-wrap align-items-center justify-content-between gap-3">
-                        <span className="footer-9__copy">Orisa &copy; 2026</span>
+                        <span className="footer-9__copy">Klarus AI &copy; 2026</span>
                         <ul className="footer-9__policies list-unstyled d-flex flex-wrap gap-3 gap-xxl-4 mb-0">
                             <li>
                                 <Link to="#">Privacy Policy</Link>
@@ -200,7 +200,7 @@ export default function Footer9() {
                     <div className="footer-9__line" aria-hidden="true">
                         <img
                             src="/assets/imgs/pages/home-9/footer-9-line.webp"
-                            alt="orisa"
+                            alt="Klarus AI"
                             width={1720}
                             height={33}
                             loading="lazy"

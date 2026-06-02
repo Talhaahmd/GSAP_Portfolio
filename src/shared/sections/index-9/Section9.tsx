@@ -67,7 +67,7 @@ export default function Section9() {
                                         <img
                                             src={post.img}
                                             className="blog-card__img22"
-                                            alt="orisa"
+                                            alt="Klarus AI"
                                             width={400}
                                             height={280} loading="lazy" />
                                     </Link>

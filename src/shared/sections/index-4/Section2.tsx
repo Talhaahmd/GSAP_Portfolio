@@ -131,7 +131,7 @@ export default function Section2() {
                             <div className="pt-40 ps-5 d-none d-md-block">
                                 <img
                                     src="/assets/imgs/pages/img-gemstone.webp"
-                                    alt="orisa"
+                                    alt="Klarus AI"
                                     width={78}
                                     height={110}
                                     className="portfolio-text"
@@ -152,7 +152,7 @@ export default function Section2() {
                                         <div className="icon-shape size-60 rounded-2 fix">
                                             <img
                                                 src={src}
-                                                alt="orisa"
+                                                alt="Klarus AI"
                                                 width={60}
                                                 height={60}
                                                 className="img-cover w-100 h-100" loading="lazy" />
@@ -197,7 +197,7 @@ export default function Section2() {
                                         <Link to="#" className="p-absolute top-0 left-0">
                                             <img
                                                 src={service.imgTop!}
-                                                alt="orisa"
+                                                alt="Klarus AI"
                                                 width={400}
                                                 height={300}
                                                 className="img-cover w-100 h-100" loading="lazy" />
@@ -205,7 +205,7 @@ export default function Section2() {
                                         <Link to="#" className="p-absolute bottom-0 start-0 end-0">
                                             <img
                                                 src={service.imgBottom!}
-                                                alt="orisa"
+                                                alt="Klarus AI"
                                                 width={400}
                                                 height={300}
                                                 className="img-cover w-100 h-100" loading="lazy" />
@@ -225,7 +225,7 @@ export default function Section2() {
                                         <Link to="#" className="p-absolute bottom-0 start-0 end-0">
                                             <img
                                                 src={service.img!}
-                                                alt="orisa"
+                                                alt="Klarus AI"
                                                 width={400}
                                                 height={300}
                                                 className="img-cover w-100 h-100" loading="lazy" />

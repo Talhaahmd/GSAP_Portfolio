@@ -48,11 +48,11 @@ const ARROW_ICON_SM = (
 );
 
 const AVATARS = [
-    { src: "/assets/imgs/template/avatar/avatar-10.webp", alt: "orisa", hiddenOnMobile: false },
-    { src: "/assets/imgs/template/avatar/avatar-11.webp", alt: "orisa", hiddenOnMobile: false },
-    { src: "/assets/imgs/template/avatar/avatar-12.webp", alt: "orisa", hiddenOnMobile: false },
-    { src: "/assets/imgs/template/avatar/avatar-13.webp", alt: "orisa", hiddenOnMobile: false },
-    { src: "/assets/imgs/template/avatar/avatar-14.webp", alt: "orisa", hiddenOnMobile: true },
+    { src: "/assets/imgs/template/avatar/avatar-10.webp", alt: "Klarus AI", hiddenOnMobile: false },
+    { src: "/assets/imgs/template/avatar/avatar-11.webp", alt: "Klarus AI", hiddenOnMobile: false },
+    { src: "/assets/imgs/template/avatar/avatar-12.webp", alt: "Klarus AI", hiddenOnMobile: false },
+    { src: "/assets/imgs/template/avatar/avatar-13.webp", alt: "Klarus AI", hiddenOnMobile: false },
+    { src: "/assets/imgs/template/avatar/avatar-14.webp", alt: "Klarus AI", hiddenOnMobile: true },
 ];
 
 const SOCIAL_ITEMS = [
@@ -128,7 +128,7 @@ export default function Section1() {
                                             <br className="d-block" />
                                             Email:{" "}
                                             <span className="neutral-900">
-                                                <a href="mailto:hello@orisa.com">hello@orisa.com</a>
+                                                <a href="mailto:info@klarus.io">info@klarus.io</a>
                                             </span>
                                         </span>
                                     </div>
@@ -151,7 +151,7 @@ export default function Section1() {
                                             <br className="d-block" />
                                             Email:{" "}
                                             <span className="neutral-900">
-                                                <a href="mailto:sale@orisa.com">sale@orisa.com</a>
+                                                <a href="mailto:info@klarus.io">info@klarus.io</a>
                                             </span>
                                         </span>
                                     </div>

@@ -54,7 +54,7 @@ export default function Section7() {
                     <div className="col-lg-6">
                         <img
                             src="/assets/imgs/pages/img-69.webp"
-                            alt="orisa"
+                            alt="Klarus AI"
                             width={800}
                             height={600}
                             className="img-cover" loading="lazy" />
@@ -101,7 +101,7 @@ export default function Section7() {
                                 <div className="testimonial-left-img size-50 rounded-3 overflow-hidden">
                                     <img
                                         src="/assets/imgs/template/avatar/avatar-8.webp"
-                                        alt="orisa"
+                                        alt="Klarus AI"
                                         width={50}
                                         height={50}
                                         className="img-cover" loading="lazy" />
@@ -109,7 +109,7 @@ export default function Section7() {
                             </div>
                             <div className="testimonial-content">
                                 <p className="fz-xl neutral-900 fw-400">
-                                    &ldquo;Orisa completely transformed how we present our brand online. Their strategic
+                                    &ldquo;Klarus AI completely transformed how we present our brand online. Their strategic
                                     mindset and attention to detail resulted in a digital experience that feels both
                                     refined and high-performing.&rdquo;
                                 </p>

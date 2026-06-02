@@ -50,8 +50,7 @@ export default function Section3() {
                             </h6>
                             <h5 className="fw-600 reveal-text pe-xxl-5">
                                 <RevealText>
-                                    Orisa Nova is an AI Engineer architecting scalable, high-impact systems with
-                                    research-driven precision.
+                                    Klarus AI builds scalable AI systems                                    research-driven precision.
                                 </RevealText>
                             </h5>
                         </div>
@@ -76,7 +75,7 @@ export default function Section3() {
                                                         >
                                                             <img
                                                                 src={logoSrc(logo)}
-                                                                alt="orisa"
+                                                                alt="Klarus AI"
                                                                 width={120}
                                                                 height={48}
                                                                 className="dark-mode-invert" loading="lazy" />

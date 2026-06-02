@@ -92,7 +92,7 @@ export default function Section4() {
                                             <Link className="sec-4-home-10__visual-link" to={service.href} aria-label={service.ariaLabel}>
                                                 <img
                                                     src={service.img}
-                                                    alt="orisa"
+                                                    alt="Klarus AI"
                                                     width={service.width}
                                                     height={service.height}
                                                     loading="lazy"
@@ -122,7 +122,7 @@ export default function Section4() {
                                             <Link className="sec-4-home-10__visual-link" to={service.href} aria-label={service.ariaLabel}>
                                                 <img
                                                     src={service.img}
-                                                    alt="orisa"
+                                                    alt="Klarus AI"
                                                     width={service.width}
                                                     height={service.height}
                                                     loading="lazy"

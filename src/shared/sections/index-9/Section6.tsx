@@ -67,7 +67,7 @@ export default function Section6() {
                             <span className="sec-6-home-9__tag-text text-scramble">Meet our team</span>
                             <img
                                 src="/assets/imgs/pages/home-9/sec-6-tag-arrow.webp"
-                                alt="orisa"
+                                alt="Klarus AI"
                                 width={14}
                                 height={13}
                                 loading="lazy"
@@ -92,7 +92,7 @@ export default function Section6() {
                                         <div className="sec-6-home-9__avatar">
                                             <img
                                                 src={member.avatar}
-                                                alt="orisa"
+                                                alt="Klarus AI"
                                                 width={68}
                                                 height={68}
                                                 loading="lazy"
@@ -116,7 +116,7 @@ export default function Section6() {
                             <div className="sec-6-home-9__footer-icon">
                                 <img
                                     src="/assets/imgs/pages/home-9/sec-6-shape.webp"
-                                    alt="orisa"
+                                    alt="Klarus AI"
                                     width={40}
                                     height={40}
                                     loading="lazy"
@@ -127,7 +127,7 @@ export default function Section6() {
                                 <div className="sec-6-home-9__footer-lines at_fade_anim" data-delay=".2">
                                     <p>205 North Michigan Avenue, Suite 810<br />Chicago, 60601, USA</p>
                                     <p>Phone: <a className="sec-6-home-9__footer-link" href="tel:+11234567890">(123) 456-7890</a></p>
-                                    <p>Email: <a className="sec-6-home-9__footer-link" href="mailto:hello@orisa.com">hello@orisa.com</a></p>
+                                    <p>Email: <a className="sec-6-home-9__footer-link" href="mailto:info@klarus.io">info@klarus.io</a></p>
                                 </div>
                             </div>
                         </div>
@@ -135,7 +135,7 @@ export default function Section6() {
                             <div className="sec-6-home-9__footer-lines at_fade_anim" data-delay=".3">
                                 <p>245 Fifth Avenue, Suite 1800<br />New York, NY 10016, USA</p>
                                 <p>Phone: <a className="sec-6-home-9__footer-link" href="tel:+12125557398">(212) 555-7398</a></p>
-                                <p>Email: <a className="sec-6-home-9__footer-link" href="mailto:sale@orisa.com">sale@orisa.com</a></p>
+                                <p>Email: <a className="sec-6-home-9__footer-link" href="mailto:info@klarus.io">info@klarus.io</a></p>
                             </div>
                         </div>
                     </footer>

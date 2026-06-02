@@ -6,11 +6,11 @@ import type { Swiper as SwiperInstance } from "swiper";
 import { Autoplay, FreeMode, Thumbs } from "swiper/modules";
 
 const AVATARS = [
-    { src: "/assets/imgs/template/avatar/avatar-15.webp", alt: "orisa", thumbClass: "thumb-slide-1" },
-    { src: "/assets/imgs/template/avatar/avatar-16.webp", alt: "orisa", thumbClass: "thumb-slide-2" },
-    { src: "/assets/imgs/template/avatar/avatar-17.webp", alt: "orisa", thumbClass: "thumb-slide-3" },
-    { src: "/assets/imgs/template/avatar/avatar-18.webp", alt: "orisa", thumbClass: "thumb-slide-4" },
-    { src: "/assets/imgs/template/avatar/avatar-19.webp", alt: "orisa", thumbClass: "thumb-slide-5" },
+    { src: "/assets/imgs/template/avatar/avatar-15.webp", alt: "Klarus AI", thumbClass: "thumb-slide-1" },
+    { src: "/assets/imgs/template/avatar/avatar-16.webp", alt: "Klarus AI", thumbClass: "thumb-slide-2" },
+    { src: "/assets/imgs/template/avatar/avatar-17.webp", alt: "Klarus AI", thumbClass: "thumb-slide-3" },
+    { src: "/assets/imgs/template/avatar/avatar-18.webp", alt: "Klarus AI", thumbClass: "thumb-slide-4" },
+    { src: "/assets/imgs/template/avatar/avatar-19.webp", alt: "Klarus AI", thumbClass: "thumb-slide-5" },
 ];
 
 const QUOTE_TEXT = (

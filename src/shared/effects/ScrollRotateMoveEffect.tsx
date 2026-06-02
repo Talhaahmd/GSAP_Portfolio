@@ -8,7 +8,7 @@ type Killable = { kill?: () => void };
  * - `.scroll-move-right`  : x 500px, start top 30%, scrub 2
  * - `.scroll-move-left`   : x -500px, start bottom 100%, scrub 2
  *
- * Direct port of `3.Orisa-Nextjs/components/effects/ScrollRotateMoveEffect.tsx`.
+ * Direct port of `3.Klarus AI-Nextjs/components/effects/ScrollRotateMoveEffect.tsx`.
  */
 export default function ScrollRotateMoveEffect() {
   const initialized = useRef(false);

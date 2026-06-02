@@ -26,7 +26,7 @@ const STATS = [
         suffix: "+",
         label: (
             <>
-                Brands scaled <br /> with Orisa
+                Brands scaled <br /> with Klarus AI
             </>
         ),
     },

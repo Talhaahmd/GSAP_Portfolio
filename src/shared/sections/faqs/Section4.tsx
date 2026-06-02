@@ -56,8 +56,8 @@ export default function Section4() {
                             We wil answer to you shortly! Meet our Support team
                         </p>
                         <h5 className="mt-40">
-                            <a href="mailto:hello@orisa.com">
-                                hello@orisa.com
+                            <a href="mailto:info@klarus.io">
+                                info@klarus.io
                             </a>
                         </h5>
                         <h6>

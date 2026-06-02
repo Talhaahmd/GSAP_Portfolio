@@ -113,7 +113,7 @@ export default function Section6() {
                                     data-value-1="1.5"
                                     data-value-2="1"
                                     src="/assets/imgs/pages/img-111.webp"
-                                    alt="orisa"
+                                    alt="Klarus AI"
                                     width={550}
                                     height={540} loading="lazy" />
                                 <div className="alt-portfolio-btn">
@@ -133,7 +133,7 @@ export default function Section6() {
                             <div className="alt-portfolio-content d-flex justify-content-between align-items-center bg-neutral-700">
                                 <h5 className="alt-portfolio-title mb-0">
                                     <Link to="#" className="common-underline text-white">
-                                        Orisa Nova
+                                        Klarus AI Nova
                                     </Link>
                                 </h5>
                                 <span className="alt-portfolio-plus text-white">{PLUS_ICON}</span>

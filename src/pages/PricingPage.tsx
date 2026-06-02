@@ -6,7 +6,7 @@ import Section3 from "@/shared/sections/about-3/Section7";
 export default function PricingPage() {
   return (
     <>
-      <PageMeta title="Orisa - Pricing" />
+      <PageMeta title="Klarus AI - Pricing" />
                 <Section1 className="pt-100" showNoise={false} />
                 <Section2 />
                 <Section3 />

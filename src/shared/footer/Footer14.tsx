@@ -55,13 +55,13 @@ export default function Footer14() {
                 </ul>
 
                 <div className="footer-14__bigbrand">
-                    <p className="footer-14__bigbrand-text mb-0 text-scale-anim">Orisa<sup>&reg;</sup> Studio</p>
+                    <p className="footer-14__bigbrand-text mb-0 text-scale-anim">Klarus AI<sup>&reg;</sup> Studio</p>
                     <span className="footer-14__bigbrand-badge" aria-hidden="true">GET 20% OFF</span>
                 </div>
             </div>
 
             <div className="footer-14__legal">
-                <p className="footer-14__copy mb-0">&copy; 2026 Orisa Studio JSC &middot; Photo licence #18472 &middot; All rights reserved.</p>
+                <p className="footer-14__copy mb-0">&copy; 2026 Klarus AI &middot; Photo licence #18472 &middot; All rights reserved.</p>
                 <ul className="footer-14__social list-unstyled mb-0">
                     <li><a href="https://instagram.com" target="_blank" rel="noopener">Instagram</a></li>
                     <li><a href="https://behance.net" target="_blank" rel="noopener">Behance</a></li>

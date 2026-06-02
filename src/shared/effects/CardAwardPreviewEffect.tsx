@@ -19,7 +19,7 @@ function getRotateOptions(card: Element): { isReversed: boolean; rotation: numbe
 }
 
 /**
- * Port of 3.Orisa-Nextjs/components/effects/CardAwardPreviewEffect.tsx / theme main.js §14.
+ * Port of 3.Klarus AI-Nextjs/components/effects/CardAwardPreviewEffect.tsx / theme main.js §14.
  * Desktop: hover `.card-award` shows fixed `.card-award-preview` with large image from `data-img-award`,
  * follows cursor via gsap.quickTo, rotation default -15deg (override with `data-rotate` on the card).
  */

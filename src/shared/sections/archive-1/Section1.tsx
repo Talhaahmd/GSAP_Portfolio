@@ -70,7 +70,7 @@ export default function Section1() {
                                     data-value-1="1.5"
                                     data-value-2="1"
                                     src="/assets/imgs/pages/img-189.webp"
-                                    alt="orisa"
+                                    alt="Klarus AI"
                                     width={450}
                                     height={550} loading="lazy" />
                                 <span className="alt-portfolio-btn start-0 end-0 mx-4">

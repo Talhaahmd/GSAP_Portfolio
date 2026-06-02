@@ -46,7 +46,7 @@ export default function Section4() {
                                     <div className="at-service-img-wrapper image-container sec-4-home-8__img-stack">
                                         {hoverImages.map((img, index) => (
                                             <div className="hover-image" key={`hover-${index}`}>
-                                                <img className="thumb" src={img} alt="orisa" width={500} height={400} loading="lazy" />
+                                                <img className="thumb" src={img} alt="Klarus AI" width={500} height={400} loading="lazy" />
                                             </div>
                                         ))}
                                     </div>
@@ -85,7 +85,7 @@ export default function Section4() {
                                         <p className="text">UX Research, Audit, Journey Mapping.</p>
                                     </div>
                                     <div className="thumb anim-zoomin">
-                                        <img data-speed=".9" src="/assets/imgs/pages/home-8/hero8-sec4-hover-1.webp" alt="orisa" width={300} height={200} loading="lazy" />
+                                        <img data-speed=".9" src="/assets/imgs/pages/home-8/hero8-sec4-hover-1.webp" alt="Klarus AI" width={300} height={200} loading="lazy" />
                                     </div>
                                 </div>
                             </Link>
@@ -99,7 +99,7 @@ export default function Section4() {
                                         <p className="text">UI Design, Branding, Visual Identity.</p>
                                     </div>
                                     <div className="thumb anim-zoomin">
-                                        <img src="/assets/imgs/pages/home-8/hero8-sec4-hover-2.webp" alt="orisa" width={300} height={200} loading="lazy" />
+                                        <img src="/assets/imgs/pages/home-8/hero8-sec4-hover-2.webp" alt="Klarus AI" width={300} height={200} loading="lazy" />
                                     </div>
                                 </div>
                             </Link>
@@ -113,7 +113,7 @@ export default function Section4() {
                                         <p className="text">UX Research, Audit, Journey Mapping.</p>
                                     </div>
                                     <div className="thumb anim-zoomin">
-                                        <img data-speed=".9" src="/assets/imgs/pages/home-8/hero8-sec4-hover-3.webp" alt="orisa" width={300} height={200} loading="lazy" />
+                                        <img data-speed=".9" src="/assets/imgs/pages/home-8/hero8-sec4-hover-3.webp" alt="Klarus AI" width={300} height={200} loading="lazy" />
                                     </div>
                                 </div>
                             </Link>
@@ -127,7 +127,7 @@ export default function Section4() {
                                         <p className="text">UX Research, Audit, Journey Mapping.</p>
                                     </div>
                                     <div className="thumb anim-zoomin">
-                                        <img data-speed=".9" src="/assets/imgs/pages/home-8/hero8-sec4-hover-4.webp" alt="orisa" width={300} height={200} loading="lazy" />
+                                        <img data-speed=".9" src="/assets/imgs/pages/home-8/hero8-sec4-hover-4.webp" alt="Klarus AI" width={300} height={200} loading="lazy" />
                                     </div>
                                 </div>
                             </Link>

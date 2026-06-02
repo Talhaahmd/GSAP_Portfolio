@@ -174,7 +174,7 @@ export default function Section6() {
                                 </div>
                                 <PortfolioThumb
                                     src="/assets/imgs/pages/img-34.webp"
-                                    alt="orisa"
+                                    alt="Klarus AI"
                                     tag="Creative"
                                     title="Brand art direction & visual identity"
                                     description="We always provide people a complete solution upon focused of any business"
@@ -188,7 +188,7 @@ export default function Section6() {
                             <div className="alt-portfolio-item mb-30 alt-portfolio-item-2 at-hover-item">
                                 <PortfolioThumb
                                     src="/assets/imgs/pages/img-35.webp"
-                                    alt="orisa"
+                                    alt="Klarus AI"
                                     tag="ui design"
                                     title="UI/UX & product design for digital platforms"
                                     description="We always provide people a complete solution upon focused of any business"
@@ -214,7 +214,7 @@ export default function Section6() {
                                 </div>
                                 <PortfolioThumb
                                     src="/assets/imgs/pages/img-36.webp"
-                                    alt="orisa"
+                                    alt="Klarus AI"
                                     tag="e-commerce"
                                     title="Campaigns & focused content"
                                     description="We always provide people a complete solution upon focused of any business"
@@ -233,7 +233,7 @@ export default function Section6() {
                             <div className="alt-portfolio-item alt-portfolio-item-4 mb-30 at-hover-item">
                                 <PortfolioThumb
                                     src="/assets/imgs/pages/img-37.webp"
-                                    alt="orisa"
+                                    alt="Klarus AI"
                                     tag="web development"
                                     title="High-performance website development"
                                     description="We always provide people a complete solution upon focused of any business"
@@ -260,7 +260,7 @@ export default function Section6() {
                                 </div>
                                 <PortfolioThumb
                                     src="/assets/imgs/pages/img-38.webp"
-                                    alt="orisa"
+                                    alt="Klarus AI"
                                     tag="motion design"
                                     title="Animated brand storytelling"
                                     description="We always provide people a complete solution upon focused of any business"
@@ -274,7 +274,7 @@ export default function Section6() {
                             <div className="alt-portfolio-item alt-portfolio-item-6 mb-30 at-hover-item">
                                 <PortfolioThumb
                                     src="/assets/imgs/pages/img-39.webp"
-                                    alt="orisa"
+                                    alt="Klarus AI"
                                     tag="creative"
                                     title="Visual storytelling & brand experience"
                                     description="We always provide people a complete solution upon focused of any business"

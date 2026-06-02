@@ -56,7 +56,7 @@ function Tile({ tile, filter }: { tile: Tile; filter: string }) {
             }}
             aria-hidden={visible ? undefined : true}
         >
-            <img className="sec-4-home-14__tile-img anim-zoomin" src={`/assets/imgs/pages/home-14/${tile.img}`} alt="Orisa" loading="lazy" />
+            <img className="sec-4-home-14__tile-img anim-zoomin" src={`/assets/imgs/pages/home-14/${tile.img}`} alt="Klarus AI" loading="lazy" />
             <span className="sec-4-home-14__tile-top">
                 <span className="sec-4-home-14__tile-num">{tile.num}</span>
                 <span className="sec-4-home-14__tile-year">{tile.year}</span>

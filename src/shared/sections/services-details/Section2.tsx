@@ -3,11 +3,11 @@ import SwiperDynamic from "@/shared/components/SwiperDynamic";
 // Services details Section 2 - Image slider (about-me-slider-active)
 
 const SLIDES = [
-    { src: "/assets/imgs/pages/img-156.webp", alt: "orisa" },
-    { src: "/assets/imgs/pages/img-157.webp", alt: "orisa" },
-    { src: "/assets/imgs/pages/img-158.webp", alt: "orisa" },
-    { src: "/assets/imgs/pages/img-159.webp", alt: "orisa" },
-    { src: "/assets/imgs/pages/img-160.webp", alt: "orisa" },
+    { src: "/assets/imgs/pages/img-156.webp", alt: "Klarus AI" },
+    { src: "/assets/imgs/pages/img-157.webp", alt: "Klarus AI" },
+    { src: "/assets/imgs/pages/img-158.webp", alt: "Klarus AI" },
+    { src: "/assets/imgs/pages/img-159.webp", alt: "Klarus AI" },
+    { src: "/assets/imgs/pages/img-160.webp", alt: "Klarus AI" },
 ];
 
 export default function Section2() {

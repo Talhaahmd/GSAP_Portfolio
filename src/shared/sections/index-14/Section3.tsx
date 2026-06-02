@@ -46,7 +46,7 @@ export default function Section3() {
                     <article className="sec-3-home-14__featured">
                         <Link className="sec-3-home-14__featured-link" to="/portfolio-details-1" aria-label="View Urban Soul series">
                             <div className="sec-3-home-14__featured-frame anim-zoomin-wrap">
-                                <img className="sec-3-home-14__featured-img anim-zoomin" src="/assets/imgs/pages/home-14/sec-3-featured.webp" alt="Orisa" loading="lazy" />
+                                <img className="sec-3-home-14__featured-img anim-zoomin" src="/assets/imgs/pages/home-14/sec-3-featured.webp" alt="Klarus AI" loading="lazy" />
                                 <div className="sec-3-home-14__featured-overlay">
                                     <div className="sec-3-home-14__featured-top">
                                         <p className="sec-3-home-14__featured-num mb-0 text-white">NO. 01</p>
@@ -76,7 +76,7 @@ export default function Section3() {
                             <li key={it.num} className="sec-3-home-14__item">
                                 <Link className="sec-3-home-14__item-link" to={it.link}>
                                     <span className="sec-3-home-14__item-img anim-zoomin-wrap">
-                                        <img data-speed=".9" className="anim-zoomin" src={`/assets/imgs/pages/home-14/${it.img}`} alt="Orisa" loading="lazy" />
+                                        <img data-speed=".9" className="anim-zoomin" src={`/assets/imgs/pages/home-14/${it.img}`} alt="Klarus AI" loading="lazy" />
                                     </span>
                                     <span className="sec-3-home-14__item-meta">
                                         <span className="sec-3-home-14__item-top">

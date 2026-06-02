@@ -82,7 +82,7 @@ export default function Section4() {
                                             </p>
                                         </div>
                                         <div className="thumb anim-zoomin">
-                                            <img src={s.thumb} alt="orisa" width={200} height={200} loading="lazy" />
+                                            <img src={s.thumb} alt="Klarus AI" width={200} height={200} loading="lazy" />
                                         </div>
                                     </div>
                                 </Link>

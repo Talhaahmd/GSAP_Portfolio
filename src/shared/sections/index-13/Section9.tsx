@@ -8,7 +8,7 @@ function Column({ images, speed }: { images: number[]; speed: string }) {
             <div className="at-gallery-item-wrapper" data-speed={speed}>
                 {images.map((n, i) => (
                     <div key={i} className="at-gallery-item mb-30">
-                        <a href="#"><img className="w-100" src={`/assets/imgs/pages/home-13/home-13_sec_9_${n}.webp`} alt="Orisa" loading="lazy" /></a>
+                        <a href="#"><img className="w-100" src={`/assets/imgs/pages/home-13/home-13_sec_9_${n}.webp`} alt="Klarus AI" loading="lazy" /></a>
                     </div>
                 ))}
             </div>

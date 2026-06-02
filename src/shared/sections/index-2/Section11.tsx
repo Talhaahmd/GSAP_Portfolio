@@ -44,7 +44,7 @@ export default function Section11() {
                                 ))}
                             </div>
                             <a href="#">
-                                <img className="postbox-scroll-zoom-img img-cover" src="/assets/imgs/pages/bg-img-2.webp" alt="Orisa" loading="lazy" />
+                                <img className="postbox-scroll-zoom-img img-cover" src="/assets/imgs/pages/bg-img-2.webp" alt="Klarus AI" loading="lazy" />
                             </a>
                             <div className="postbox-play-btn postbox-scroll-zoom-play z-index-1 d-flex align-items-center justify-content-center gap-3">
                                 <h1 className="text-white d-none d-md-flex">Play</h1>

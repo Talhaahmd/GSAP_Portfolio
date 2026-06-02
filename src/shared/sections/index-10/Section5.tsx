@@ -54,7 +54,7 @@ export default function Section5() {
                     <img
                         className="sec-5-home-10__figure-img"
                         src="/assets/imgs/pages/home-10/sec-5-wireframe-head.webp"
-                        alt="orisa"
+                        alt="Klarus AI"
                         width={800}
                         height={500} loading="lazy" />
                 </figure>

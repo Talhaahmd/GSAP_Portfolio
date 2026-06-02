@@ -25,10 +25,10 @@ export default function Section3() {
                     <div className="col-xxl-6 col-md-6 col-lg-6">
                         <div className="sec-3-home-8__media d-flex justify-content-xxl-end justify-content-lg-center justify-content-start align-items-start">
                             <div className="sec-3-home-8__photo sec-3-home-8__photo--narrow anim-zoomin-wrap at_fade_anim" data-start="100%" data-delay=".15" data-fade-from="right">
-                                <img className="anim-zoomin" data-speed=".8" src="/assets/imgs/pages/home-8/hero8-sec3-img-1.webp" alt="orisa" width={400} height={500} loading="lazy" />
+                                <img className="anim-zoomin" data-speed=".8" src="/assets/imgs/pages/home-8/hero8-sec3-img-1.webp" alt="Klarus AI" width={400} height={500} loading="lazy" />
                             </div>
                             <div className="sec-3-home-8__photo sec-3-home-8__photo--wide anim-zoomin-wrap at_fade_anim" data-start="100%" data-delay=".25" data-fade-from="right">
-                                <img className="anim-zoomin" data-speed=".9" src="/assets/imgs/pages/home-8/hero8-sec3-img-2.webp" alt="orisa" width={500} height={400} loading="lazy" />
+                                <img className="anim-zoomin" data-speed=".9" src="/assets/imgs/pages/home-8/hero8-sec3-img-2.webp" alt="Klarus AI" width={500} height={400} loading="lazy" />
                             </div>
                         </div>
                     </div>

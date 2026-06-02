@@ -25,7 +25,7 @@ export default function ArticleCard1({
     <div className={`blog-card ${classList} mb-30`} data-category={category}>
       <div className="blog-card__thumb hover-effect-1">
         <Link to={linkPost} className="blog-card__img-link">
-          <img src={img} className="blog-card__img22" alt="orisa" width={450} height={350} />
+          <img src={img} className="blog-card__img22" alt="Klarus AI" width={450} height={350} />
         </Link>
       </div>
       <div className="blog-card__content">

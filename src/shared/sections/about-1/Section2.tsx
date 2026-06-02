@@ -107,7 +107,7 @@ export default function Section2() {
                                     data-value-1="1.5"
                                     data-value-2="1"
                                     src="/assets/imgs/pages/img-121.webp"
-                                    alt="orisa"
+                                    alt="Klarus AI"
                                     width={550}
                                     height={660} loading="lazy" />
                                 <div className="alt-portfolio-btn">
@@ -127,7 +127,7 @@ export default function Section2() {
                             <div className="alt-portfolio-content d-flex justify-content-between align-items-center bg-neutral-700">
                                 <h5 className="alt-portfolio-title mb-0">
                                     <Link to="#" className="common-underline text-white">
-                                        Orisa Nova<sup>®</sup>
+                                        Klarus AI<sup>®</sup>
                                     </Link>
                                 </h5>
                                 <span className="alt-portfolio-plus text-white">{PLUS_ICON}</span>

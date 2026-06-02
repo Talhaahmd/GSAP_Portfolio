@@ -6,7 +6,7 @@ import Section3 from "@/shared/sections/index-5/Section7";
 export default function TeamPage() {
   return (
     <>
-      <PageMeta title="Orisa - Team" />
+      <PageMeta title="Klarus AI - Team" />
                 <Section1 />
                 <Section2 />
                 <Section3 />

@@ -10,7 +10,7 @@ import S8 from "@/shared/sections/portfolio-details-3/Section8";
 export default function PortfolioDetails6Page() {
   return (
     <>
-      <PageMeta title="Orisa - PortfolioDetails6" />
+      <PageMeta title="Klarus AI - PortfolioDetails6" />
             <Section1 />
             <S2 />
             <S3 />

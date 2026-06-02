@@ -54,7 +54,7 @@ export default function Section2() {
                     {PROJECTS.map((p) => (
                         <Link key={p.num} className="card-home-12-project" to={p.link} aria-label={`${p.title} — view project`}>
                             <div className="card-home-12-project__image anim-zoomin-wrap">
-                                <img className="card-home-12-project__img anim-zoomin" src={`/assets/imgs/pages/home-12/${p.img}`} alt="Orisa" loading="lazy" />
+                                <img className="card-home-12-project__img anim-zoomin" src={`/assets/imgs/pages/home-12/${p.img}`} alt="Klarus AI" loading="lazy" />
                             </div>
                             <div className="card-home-12-project__content">
                                 <div className="card-home-12-project__top">

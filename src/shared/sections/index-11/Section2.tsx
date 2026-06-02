@@ -16,7 +16,7 @@ const LOGO_DIMS: Record<string, { width: number; height: number }> = {
 
 const makeLogo = (n: string) => ({
     src: `/assets/imgs/template/logo/logo-brand-${n}.webp`,
-    alt: "orisa",
+    alt: "Klarus AI",
     dataLogo: n,
     ...LOGO_DIMS[n],
 });
@@ -74,7 +74,7 @@ export default function Section2() {
                             Trusted by 100+ businesses
                         </h3>
                         <h4 className="h5 fw-600 reveal-text pe-xxl-5">
-                            <RevealText>Orisa Nova is an AI Engineer architecting scalable, high-impact systems with research-driven precision.</RevealText>
+                            <RevealText>Klarus AI builds scalable AI systems</RevealText>
                         </h4>
                     </div>
                     <div className="col-xxl-8 col-12">

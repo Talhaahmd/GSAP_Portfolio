@@ -32,7 +32,7 @@ export default function Section12() {
                             <div className="ripple-image ripples rounded-3 overflow-hidden d-inline-flex">
                                 <img
                                     src="/assets/imgs/pages/img-74.webp"
-                                    alt="orisa"
+                                    alt="Klarus AI"
                                     width={120}
                                     height={120}
                                     className="img-cover" loading="lazy" />

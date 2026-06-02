@@ -68,7 +68,7 @@ export default function Section10() {
                         <ul className="wrapper-gallery carouselTicker__list scroll-move-left">
                             {galleryImages.map((img, i) => (
                                 <li key={i}>
-                                    <img src={img} alt="orisa" width={300} height={200} loading="lazy" />
+                                    <img src={img} alt="Klarus AI" width={300} height={200} loading="lazy" />
                                 </li>
                             ))}
                         </ul>

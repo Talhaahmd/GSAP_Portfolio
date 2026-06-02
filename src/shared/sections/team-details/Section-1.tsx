@@ -213,7 +213,7 @@ export default function Section1() {
                             <div className="block-content mb-50">
                                 <h6 className="fw-600 mb-25">Contact</h6>
                                 <h6 className="fw-600 mb-10">
-                                    <a href="mailto:amelia@orisa.com">amelia@orisa.com</a>
+                                    <a href="mailto:amelia@klarus.io">amelia@klarus.io</a>
                                 </h6>
                                 <h6 className="fw-600">
                                     <a href="tel:(212) 555-7398">(212) 555-7398</a>

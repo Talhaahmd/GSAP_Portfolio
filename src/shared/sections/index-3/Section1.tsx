@@ -47,7 +47,7 @@ export default function Section1() {
                                 <img
                                     className="img-cover"
                                     src="/assets/imgs/pages/img-54.webp"
-                                    alt="orisa"
+                                    alt="Klarus AI"
                                     width={400}
                                     height={300} loading="lazy" />
                             </div>
@@ -59,7 +59,7 @@ export default function Section1() {
                                     <div className="testimonial-left-img size-30 rounded-2 overflow-hidden">
                                         <img
                                             src="/assets/imgs/template/avatar/avatar-6.webp"
-                                            alt="orisa"
+                                            alt="Klarus AI"
                                             width={30}
                                             height={30}
                                             className="img-cover" loading="lazy" />
@@ -130,7 +130,7 @@ export default function Section1() {
                             <img
                                 className="img-cover"
                                 src="/assets/imgs/pages/img-55.webp"
-                                alt="orisa"
+                                alt="Klarus AI"
                                 width={500}
                                 height={400} loading="lazy" />
                             <div className="cilent-word-wide-content p-absolute bottom-0 end-0 m-lg-5 m-md-4 m-4">
@@ -144,7 +144,7 @@ export default function Section1() {
                                             <img
                                                 className="img-cover"
                                                 src={src}
-                                                alt="orisa"
+                                                alt="Klarus AI"
                                                 width={56}
                                                 height={56} loading="lazy" />
                                         </div>

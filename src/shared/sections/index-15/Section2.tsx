@@ -35,7 +35,7 @@ const STATS = [
 
 export default function Section2() {
     return (
-        <section className="sec-2-home-15 pt-100 pb-100" aria-label="About Orisa">
+        <section className="sec-2-home-15 pt-100 pb-100" aria-label="About Klarus AI">
             <div className="container">
                 <div className="row align-items-end gx-4 gy-4 mb-60">
                     <div className="col-xxl-9 col-xl-8 col-lg-9">
@@ -60,7 +60,7 @@ export default function Section2() {
                 <div className="row gx-4 gy-4">
                     <div className="col-xxl-5 col-xl-6 col-lg-6">
                         <div className="sec-2-home-15__media-1 anim-zoomin-wrap">
-                            <img className="sec-2-home-15__media-1-img anim-zoomin" src="/assets/imgs/pages/home-15/sec-2-img-1.webp" alt="Orisa" loading="lazy" />
+                            <img className="sec-2-home-15__media-1-img anim-zoomin" src="/assets/imgs/pages/home-15/sec-2-img-1.webp" alt="Klarus AI" loading="lazy" />
                             <div className="sec-2-home-15__media-1-badge at_fade_anim" data-fade-from="bottom" data-delay=".4">
                                 <span className="sec-2-home-15__media-1-badge-dot" aria-hidden="true"></span>
                                 <span className="sec-2-home-15__media-1-badge-text">
@@ -73,7 +73,7 @@ export default function Section2() {
                     <div className="col-xxl-7 col-xl-6 col-lg-6 position-relative">
                         <div className="sec-2-home-15__content">
                             <p className="sec-2-home-15__body at_fade_anim mb-0 mt-4" data-fade-from="bottom" data-delay=".2">
-                                Orisa&trade; goes beyond aesthetics&mdash;bringing clarity through motion, flexible structure, and practical tools that help you move faster without defining your identity.
+                                Klarus AI&trade; goes beyond aesthetics&mdash;bringing clarity through motion, flexible structure, and practical tools that help you move faster without defining your identity.
                             </p>
                             <ul className="sec-2-home-15__features list-unstyled mb-0">
                                 {FEATURES.map((f) => (
@@ -129,7 +129,7 @@ export default function Section2() {
                     </div>
                     <div className="col-xxl-3 col-xl-3 col-lg-6 col-md-6">
                         <div className="sec-2-home-15__media-2 anim-zoomin-wrap">
-                            <img className="sec-2-home-15__media-2-img anim-zoomin" src="/assets/imgs/pages/home-15/sec-2-img-2.webp" alt="Orisa" loading="lazy" />
+                            <img className="sec-2-home-15__media-2-img anim-zoomin" src="/assets/imgs/pages/home-15/sec-2-img-2.webp" alt="Klarus AI" loading="lazy" />
                             <div className="sec-2-home-15__media-2-badge at_fade_anim" data-fade-from="bottom" data-delay=".4">
                                 <span className="sec-2-home-15__media-2-badge-icon" aria-hidden="true">
                                     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" focusable="false">
@@ -145,7 +145,7 @@ export default function Section2() {
                     </div>
                     <div className="col-xxl-3 col-xl-3 col-lg-6 col-md-6">
                         <div className="sec-2-home-15__statement at_fade_anim" data-fade-from="bottom" data-delay=".3">
-                            <img className="sec-2-home-15__statement-icon" src="/assets/imgs/pages/home-15/sec-2-shape-25.svg" alt="Orisa" loading="lazy" />
+                            <img className="sec-2-home-15__statement-icon" src="/assets/imgs/pages/home-15/sec-2-shape-25.svg" alt="Klarus AI" loading="lazy" />
                             <p className="sec-2-home-15__statement-text mb-0">We always provide people a complete solution upon focused of any business</p>
                         </div>
                     </div>

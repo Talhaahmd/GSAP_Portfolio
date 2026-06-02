@@ -64,7 +64,7 @@ export default function Section1() {
                     className="img-cover scale-up"
                     data-speed=".4"
                     src="/assets/imgs/pages/img-216.webp"
-                    alt="orisa"
+                    alt="Klarus AI"
                     width={1920}
                     height={800} loading="lazy" />
             </div>

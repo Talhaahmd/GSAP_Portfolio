@@ -27,7 +27,7 @@ function Card({ t }: { t: Testimonial }) {
         <article className={`card-home-12-testimonial${t.dark ? " card-home-12-testimonial--dark" : ""} at_fade_anim`} data-fade-from="bottom" data-delay={t.delay}>
             <p className="card-home-12-testimonial__quote mb-0">{t.quote}</p>
             <footer className="card-home-12-testimonial__author">
-                <img className="card-home-12-testimonial__avatar" src={`/assets/imgs/pages/home-12/${t.avatar}`} alt="Orisa" loading="lazy" />
+                <img className="card-home-12-testimonial__avatar" src={`/assets/imgs/pages/home-12/${t.avatar}`} alt="Klarus AI" loading="lazy" />
                 <div className="card-home-12-testimonial__meta">
                     <span className="card-home-12-testimonial__name">{t.name}</span>
                     <span className="card-home-12-testimonial__role">{t.role}</span>

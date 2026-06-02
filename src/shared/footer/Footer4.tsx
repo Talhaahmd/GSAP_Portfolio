@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-// Footer 4 - Orisa AI Solutions
+// Footer 4 - Klarus AI Solutions
 
 const ARROW_SVG = (
     <svg width="11" height="11" viewBox="0 0 11 11" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -76,13 +76,13 @@ export default function Footer4() {
                     <div className="row g-md-5 g-4 pb-45 mb-40">
                         <div className="col-12 text-center">
                             <h2 className="footer-4-connect-title fw-900 fz-200 text-white mb-0 text-scale-anim text-center text-nowrap">
-                                Orisa AI Solutions
+                                Klarus AI Solutions
                                 <sup className="fz-80 fw-400">®</sup>
                             </h2>
                         </div>
                         <div className="col-lg-5 col-md-6 d-flex flex-column justify-content-between gap-lg-5 gap-4">
                             <h4 className="text-white mb-5 fw-medium text-decoration-underline">
-                                <a href="mailto:hello@orisastudio.com">info@orisastudio.com</a>
+                                <a href="mailto:info@klarus.io">info@klarus.io</a>
                             </h4>
                             <div className="d-flex flex-wrap gap-lg-5 gap-4">
                                 <div className="d-flex flex-column">
@@ -159,7 +159,7 @@ export default function Footer4() {
                         <div className="row align-items-center g-3">
                             <div className="col-xl-2 col-lg-5">
                                 <div className="at-footer-copyright-wrap text">
-                                    <span className="at-footer-copyright">Orisa © 2026</span>
+                                    <span className="at-footer-copyright">Klarus AI © 2026</span>
                                 </div>
                             </div>
                             <div className="col-xl-7 col-lg-7">

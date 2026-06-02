@@ -16,9 +16,9 @@ export default function Header9() {
                       height={54}
                       className="invert-0"
                       src="/assets/imgs/template/logo/favicon-dark.svg"
-                      alt="Orisa"
+                      alt="Klarus AI"
                       style={{ width: "auto", height: "auto" }} loading="lazy" />
-                    <h6 className="fw-700 fz-24 text-white mb-0">Orisa</h6>
+                    <h6 className="fw-700 fz-24 text-white mb-0">Klarus AI</h6>
                   </Link>
                 </div>
               </div>

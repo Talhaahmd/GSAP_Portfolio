@@ -78,7 +78,7 @@ export default function Section11() {
                                                     <Link to="/blog-details" className="blog-card-2__img-link">
                                                         <img
                                                             src={post.img}
-                                                            alt="Orisa"
+                                                            alt="Klarus AI"
                                                             width={400}
                                                             height={280}
                                                             className="blog-card-2__img" loading="lazy" />

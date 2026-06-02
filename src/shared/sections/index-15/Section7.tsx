@@ -42,7 +42,7 @@ export default function Section7() {
                         <div className="sec-7-home-15__media at_fade_anim" data-fade-from="bottom" data-delay=".15">
                             <div className="sec-7-home-15__media-frame">
                                 <div className="fix">
-                                    <img className="sec-7-home-15__media-img anim-zoomin" data-speed=".9" src="/assets/imgs/pages/home-15/sec-7-img.webp" alt="Orisa" loading="lazy" />
+                                    <img className="sec-7-home-15__media-img anim-zoomin" data-speed=".9" src="/assets/imgs/pages/home-15/sec-7-img.webp" alt="Klarus AI" loading="lazy" />
                                 </div>
                             </div>
                         </div>

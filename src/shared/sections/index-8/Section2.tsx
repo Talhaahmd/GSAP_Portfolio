@@ -18,7 +18,7 @@ function TickerRow() {
             {tickerItems.flatMap((item, index) => [
                 <li className="sec-2-home-8__item" key={`item-${index}`}>{item}</li>,
                 <li className="sec-2-home-8__sep" key={`sep-${index}`}>
-                    <img src="/assets/imgs/pages/home-7/marquee-star.svg" alt="orisa" width={20} height={20} loading="lazy" />
+                    <img src="/assets/imgs/pages/home-7/marquee-star.svg" alt="Klarus AI" width={20} height={20} loading="lazy" />
                 </li>,
             ])}
         </>

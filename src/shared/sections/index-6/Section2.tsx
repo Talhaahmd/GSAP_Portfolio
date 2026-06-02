@@ -61,7 +61,7 @@ export default function Section2() {
           <h1 className="fw-600 text-uppercase">We Build Legacy Brands.</h1>
           <p className="h6 fw-600 mb-0 text-uppercase reveal-text indent">
             <RevealText>
-              At Orisa, we believe that a brand is more than just a visual mark.
+              At Klarus AI, we believe that a brand is more than just a visual mark.
               It is a living, breathing identity that connects human emotion with
               strategic business goals. We craft sophisticated visual languages
               that resonate with your audience and stand the test of time.

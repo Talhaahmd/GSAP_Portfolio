@@ -5,9 +5,9 @@ import { Navigation } from "swiper/modules";
 import RevealText from "@/shared/effects/RevealText";
 
 const TESTIMONIALS = [
-    { img: "sec-7-portrait-1.webp", tag: "PORTRAIT · 01", stars: "4 / 5 stars", name: "Henrietta Lowe", role: "Editor-in-Chief · Aperture Mag", quote: "We brought Orisa on for a single cover and stayed for the next four years. They make the kind of pictures that hold their own next to the writing — quietly intelligent, never showy, always exactly the frame the story needed.", project: "Project: The Editors Issue · 2024", sub: "Editorial · 24 frames · Cover + 6-spread feature", link: "/portfolio-details-1", whiteMeta: true },
-    { img: "sec-7-portrait-2.webp", tag: "PORTRAIT · 02", stars: "4 / 5 stars", name: "Bjørn Aalvik", role: "Founder · Studio Halden", quote: "Working with Orisa felt less like a commission and more like a conversation with someone who already understood the brief. They returned with images that felt inevitable — like they had always been there, waiting to be found.", project: "Project: Halden — Brand Refresh · 2024", sub: "Commercial · 18 frames · 4-page brand book", link: "/portfolio-details-2", whiteMeta: false },
-    { img: "sec-7-portrait-3.webp", tag: "PORTRAIT · 03", stars: "5 / 5 stars", name: "Margot Linden", role: "Curator · Manifest Gallery", quote: "Orisa's frames carry a stillness that is rare in commercial photography. Our visitors stand longer in front of their prints than anywhere else in the gallery — and that, to me, is the highest compliment a photograph can earn.", project: "Project: Quiet Lights — Solo Show · 2024", sub: "Exhibition · 12 prints · Hand-bound catalogue", link: "/portfolio-details-3", whiteMeta: false },
+    { img: "sec-7-portrait-1.webp", tag: "PORTRAIT · 01", stars: "4 / 5 stars", name: "Henrietta Lowe", role: "Editor-in-Chief · Aperture Mag", quote: "We brought Klarus AI on for a single cover and stayed for the next four years. They make the kind of pictures that hold their own next to the writing — quietly intelligent, never showy, always exactly the frame the story needed.", project: "Project: The Editors Issue · 2024", sub: "Editorial · 24 frames · Cover + 6-spread feature", link: "/portfolio-details-1", whiteMeta: true },
+    { img: "sec-7-portrait-2.webp", tag: "PORTRAIT · 02", stars: "4 / 5 stars", name: "Bjørn Aalvik", role: "Founder · Studio Halden", quote: "Working with Klarus AI felt less like a commission and more like a conversation with someone who already understood the brief. They returned with images that felt inevitable — like they had always been there, waiting to be found.", project: "Project: Halden — Brand Refresh · 2024", sub: "Commercial · 18 frames · 4-page brand book", link: "/portfolio-details-2", whiteMeta: false },
+    { img: "sec-7-portrait-3.webp", tag: "PORTRAIT · 03", stars: "5 / 5 stars", name: "Margot Linden", role: "Curator · Manifest Gallery", quote: "Klarus AI's frames carry a stillness that is rare in commercial photography. Our visitors stand longer in front of their prints than anywhere else in the gallery — and that, to me, is the highest compliment a photograph can earn.", project: "Project: Quiet Lights — Solo Show · 2024", sub: "Exhibition · 12 prints · Hand-bound catalogue", link: "/portfolio-details-3", whiteMeta: false },
 ];
 
 export default function Section7() {
@@ -65,7 +65,7 @@ export default function Section7() {
                             <div key={i} className="swiper-slide">
                                 <article className="sec-7-home-14__main">
                                     <figure className="sec-7-home-14__portrait mb-0">
-                                        <img className="sec-7-home-14__portrait-img" src={`/assets/imgs/pages/home-14/${t.img}`} alt="Orisa" loading="lazy" />
+                                        <img className="sec-7-home-14__portrait-img" src={`/assets/imgs/pages/home-14/${t.img}`} alt="Klarus AI" loading="lazy" />
                                         <figcaption className="sec-7-home-14__portrait-overlay">
                                             <div className="sec-7-home-14__portrait-top">
                                                 <span className="sec-7-home-14__portrait-tag text-white">{t.tag}</span>

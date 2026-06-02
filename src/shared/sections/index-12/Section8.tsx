@@ -22,7 +22,7 @@ export default function Section8() {
 
                 <div className="sec-8-home-12__list">
                     {FAQS.map((f, i) => (
-                        <details key={i} className="sec-8-home-12__item at_fade_anim" data-fade-from="bottom" data-delay={f.delay} name="orisa-home-12-faq" open={f.open}>
+                        <details key={i} className="sec-8-home-12__item at_fade_anim" data-fade-from="bottom" data-delay={f.delay} name="klarus-home-12-faq" open={f.open}>
                             <summary className="sec-8-home-12__summary">
                                 <span className="sec-8-home-12__question">{f.q}</span>
                                 <span className="sec-8-home-12__toggle" aria-hidden="true">

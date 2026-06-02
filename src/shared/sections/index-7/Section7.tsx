@@ -21,7 +21,7 @@ export default function Section7() {
                             <div className="fix anim-zoomin">
                                 <img
                                     src="/assets/imgs/pages/home-7/sec-7-photo.webp"
-                                    alt="orisa"
+                                    alt="Klarus AI"
                                     width={798}
                                     height={798}
                                     loading="lazy"

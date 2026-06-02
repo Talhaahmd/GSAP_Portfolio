@@ -3,11 +3,11 @@ import SwiperDynamic from "@/shared/components/SwiperDynamic";
 // Home 7 Section 3 - About Me Slider
 
 const SLIDES = [
-    { src: "/assets/imgs/pages/img-48.webp", alt: "orisa" },
-    { src: "/assets/imgs/pages/img-45.webp", alt: "orisa" },
-    { src: "/assets/imgs/pages/img-46.webp", alt: "orisa" },
-    { src: "/assets/imgs/pages/img-47.webp", alt: "orisa" },
-    { src: "/assets/imgs/pages/img-49.webp", alt: "orisa" },
+    { src: "/assets/imgs/pages/img-48.webp", alt: "Klarus AI" },
+    { src: "/assets/imgs/pages/img-45.webp", alt: "Klarus AI" },
+    { src: "/assets/imgs/pages/img-46.webp", alt: "Klarus AI" },
+    { src: "/assets/imgs/pages/img-47.webp", alt: "Klarus AI" },
+    { src: "/assets/imgs/pages/img-49.webp", alt: "Klarus AI" },
 ];
 
 export default function Section3() {

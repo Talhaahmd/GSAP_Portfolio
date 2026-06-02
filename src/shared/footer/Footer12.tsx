@@ -24,7 +24,7 @@ export default function Footer12() {
                         <p className="footer-12__cta-sub mb-0 at_fade_anim" data-fade-from="bottom" data-delay=".15">Drop a line. We&rsquo;ll get back within a day.</p>
                         <form className="footer-12__cta-form at_fade_anim" data-fade-from="bottom" data-delay=".25" action="#" method="post">
                             <label className="visually-hidden" htmlFor="footer12Email">Email</label>
-                            <input id="footer12Email" className="footer-12__cta-input" type="email" name="email" placeholder="hello@orisa.studio" required />
+                            <input id="footer12Email" className="footer-12__cta-input" type="email" name="email" placeholder="info@klarus.io" required />
                             <button className="footer-12__cta-submit" type="submit">
                                 <span>Get started</span>
                             </button>
@@ -39,8 +39,8 @@ export default function Footer12() {
 
                     <div className="footer-12__columns">
                         <div className="footer-12__col footer-12__col--brand">
-                            <Link className="footer-12__brand" to="/index-12" aria-label="Orisa home">
-                                <img className="footer-12__brand-logo" src="/assets/imgs/template/logo/logo-w.svg" alt="Orisa" loading="lazy" />
+                            <Link className="footer-12__brand" to="/index-12" aria-label="Klarus AI home">
+                                <img className="footer-12__brand-logo" src="/assets/imgs/template/logo/logo-w.svg" alt="Klarus AI" loading="lazy" />
                             </Link>
                             <p className="footer-12__brand-desc">Quiet craft for loud ideas. An independent studio shaping portfolios, identities, and digital products built to last.</p>
                             <div className="at-hero-social footer-12__socials" aria-label="Social links">
@@ -90,7 +90,7 @@ export default function Footer12() {
                     <span className="footer-12__divider" aria-hidden="true"></span>
 
                     <div className="footer-12__bottom">
-                        <p className="footer-12__copy mb-0">&copy; 2026 Orisa Studio. All rights reserved.</p>
+                        <p className="footer-12__copy mb-0">&copy; 2026 Klarus AI. All rights reserved.</p>
                         <ul className="footer-12__legal" aria-label="Legal">
                             <li><a href="#">Terms</a></li>
                             <li><a href="#">Privacy</a></li>

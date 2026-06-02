@@ -24,7 +24,7 @@ export default function Section5() {
                     {EXPERTISE.map((e, i) => (
                         <article key={i} className="sec-5-home-13__card">
                             <div className="sec-5-home-13__card-media anim-zoomin">
-                                <img data-speed=".9" src={`/assets/imgs/pages/home-13/${e.img}`} alt="Orisa" loading="lazy" />
+                                <img data-speed=".9" src={`/assets/imgs/pages/home-13/${e.img}`} alt="Klarus AI" loading="lazy" />
                             </div>
                             <div className="sec-5-home-13__card-body">
                                 <header className="sec-5-home-13__card-head">

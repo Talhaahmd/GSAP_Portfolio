@@ -54,7 +54,7 @@ export default function Section5() {
                         <div className="col-lg-6">
                             <img
                                 src="/assets/imgs/pages/img-165.webp"
-                                alt="orisa"
+                                alt="Klarus AI"
                                 width={800}
                                 height={600}
                                 style={{ width: "100%", height: "auto" }} loading="lazy" />
@@ -98,14 +98,14 @@ export default function Section5() {
                                     <div className="testimonial-left-img size-50 rounded-3 overflow-hidden">
                                         <img
                                             src="/assets/imgs/template/avatar/avatar-8.webp"
-                                            alt="orisa"
+                                            alt="Klarus AI"
                                             width={50}
                                             height={50} loading="lazy" />
                                     </div>
                                 </div>
                                 <div className="testimonial-content">
                                     <p className="fz-xl neutral-900 fw-400">
-                                        &quot;Orisa completely transformed how we present our brand online. Their strategic mindset and attention to detail resulted in a digital experience that feels both refined and high-performing.&quot;
+                                        &quot;Klarus AI completely transformed how we present our brand online. Their strategic mindset and attention to detail resulted in a digital experience that feels both refined and high-performing.&quot;
                                     </p>
                                     <h6 className="testimonial-content-author-name fw-600 mb-0 fz-font-md">
                                         Hannah Lee

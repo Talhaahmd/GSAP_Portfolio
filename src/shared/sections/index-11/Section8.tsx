@@ -6,7 +6,7 @@ export default function Section8() {
                     <img
                         className="anim-zoomin sec-8-home-11__bg-img"
                         src="/assets/imgs/pages/home-11/bg.webp"
-                        alt="orisa"
+                        alt="Klarus AI"
                         loading="lazy"
                         decoding="async"
                         style={{ objectFit: "cover" }}

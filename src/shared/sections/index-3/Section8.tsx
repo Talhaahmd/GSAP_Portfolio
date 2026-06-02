@@ -53,14 +53,14 @@ export default function Section8() {
                         <div className="p-relative rounded-4 overflow-hidden">
                             <img
                                 src="/assets/imgs/pages/img-70.webp"
-                                alt="orisa"
+                                alt="Klarus AI"
                                 width={600}
                                 height={400}
                                 className="img-cover w-100 h-100" loading="lazy" />
                             <div className="p-absolute bottom-0 start-0 m-5">
                                 <img
                                     src="/assets/imgs/template/logo/favicon-md.webp"
-                                    alt="orisa"
+                                    alt="Klarus AI"
                                     width={63}
                                     height={69}
                                     style={{ width: "auto", height: "auto" }} loading="lazy" />

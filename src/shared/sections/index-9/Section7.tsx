@@ -26,7 +26,7 @@ export default function Section7() {
                                     <img
                                         data-speed=".8"
                                         src="/assets/imgs/pages/home-9/sec-7-layer.webp"
-                                        alt="orisa"
+                                        alt="Klarus AI"
                                         width={1000}
                                         height={667}
                                         style={{ width: "auto", height: "auto" }} loading="lazy" />
@@ -38,7 +38,7 @@ export default function Section7() {
                                 <div className="sec-7-home-9__deco" aria-hidden="true">
                                     <img
                                         src="/assets/imgs/pages/home-9/sec-7-deco.webp"
-                                        alt="orisa"
+                                        alt="Klarus AI"
                                         width={99}
                                         height={99}
                                         loading="lazy"
@@ -58,7 +58,7 @@ export default function Section7() {
                                             <span>{tag.label}</span>
                                             <img
                                                 src="/assets/imgs/pages/home-9/sec-7-tag-arrow.webp"
-                                                alt="orisa"
+                                                alt="Klarus AI"
                                                 width={9}
                                                 height={9}
                                                 loading="lazy"

@@ -80,7 +80,7 @@ export default function Section10() {
                                         <img
                                             src={insight.img}
                                             className="blog-card__img22"
-                                            alt="orisa"
+                                            alt="Klarus AI"
                                             width={400}
                                             height={280} loading="lazy" />
                                     </Link>

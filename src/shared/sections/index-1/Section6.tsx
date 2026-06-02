@@ -129,11 +129,11 @@ export default function Section6() {
                             </SwiperDynamic>
                         </div>
                         <div className="col-12 text-center pt-50 z-index-1">
-                            <Link to="mailto:hello@orisa.com" className="at-btn bg-transparent p-relative">
+                            <Link to="mailto:info@klarus.io" className="at-btn bg-transparent p-relative">
                                 <img
                                     className="badge-zoon-in"
                                     src="/assets/imgs/icons/badge-2.svg"
-                                    alt="orisa"
+                                    alt="Klarus AI"
                                     width={120}
                                     height={120} loading="lazy" />
                                 <span className="position-absolute top-50 start-50 translate-middle d-flex flex-column align-items-center justify-content-center overflow-unset">

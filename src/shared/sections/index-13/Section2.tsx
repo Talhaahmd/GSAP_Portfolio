@@ -28,7 +28,7 @@ export default function Section2() {
                             <ul className="sec-2-home-13__team list-unstyled mb-0">
                                 {[1, 2, 3, 4, 5].map((n) => (
                                     <li key={n} className="sec-2-home-13__team-avatar at_fade_anim" data-fade-from="left" data-delay={`.${n}`}>
-                                        <img src={`/assets/imgs/pages/home-13/sec-2-avatar-${n}.webp`} alt="Orisa" loading="lazy" />
+                                        <img src={`/assets/imgs/pages/home-13/sec-2-avatar-${n}.webp`} alt="Klarus AI" loading="lazy" />
                                     </li>
                                 ))}
                             </ul>
@@ -56,7 +56,7 @@ export default function Section2() {
                         <div className="sec-2-home-13__grid">
                             <div className="sec-2-home-13__col me-0 me-lg-4">
                                 <figure className="sec-2-home-13__media anim-zoomin-wrap mb-0">
-                                    <img className="anim-zoomin" src="/assets/imgs/pages/home-13/sec-2-img-1.webp" alt="Orisa" loading="lazy" />
+                                    <img className="anim-zoomin" src="/assets/imgs/pages/home-13/sec-2-img-1.webp" alt="Klarus AI" loading="lazy" />
                                 </figure>
                                 <div className="sec-2-home-13__caption">
                                     <h3 className="sec-2-home-13__caption-title mb-0 at-char-animation">Creative Expertise</h3>
@@ -67,7 +67,7 @@ export default function Section2() {
                             </div>
                             <div className="sec-2-home-13__col sec-2-home-13__col--tall  ms-0 ms-lg-4">
                                 <figure className="sec-2-home-13__media sec-2-home-13__media--tall anim-zoomin-wrap mb-0">
-                                    <img className="anim-zoomin" src="/assets/imgs/pages/home-13/sec-2-img-2.webp" alt="Orisa" loading="lazy" />
+                                    <img className="anim-zoomin" src="/assets/imgs/pages/home-13/sec-2-img-2.webp" alt="Klarus AI" loading="lazy" />
                                 </figure>
                             </div>
                         </div>
@@ -79,7 +79,7 @@ export default function Section2() {
                         <div key={i} className="sec-2-home-13__stat at_fade_anim" data-fade-from="left" data-fade-offset="24" data-delay={s.delay}>
                             <div className="sec-2-home-13__stat-head">
                                 <span className="sec-2-home-13__stat-icon">
-                                    <img className="dark-mode-invert" src={`/assets/imgs/pages/home-13/${s.shape}`} alt="Orisa" loading="lazy" />
+                                    <img className="dark-mode-invert" src={`/assets/imgs/pages/home-13/${s.shape}`} alt="Klarus AI" loading="lazy" />
                                 </span>
                                 <span className="sec-2-home-13__stat-tag">{s.tag}</span>
                             </div>

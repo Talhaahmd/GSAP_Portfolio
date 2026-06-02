@@ -94,7 +94,7 @@ export default function Section6() {
                             data-sec6-parallax-ease={work.parallaxEase}
                         >
                             <div className="sec-6-home-8__img anim-zoomin">
-                                <img data-speed=".8" src={work.img} alt="orisa" width={600} height={450} loading="lazy" />
+                                <img data-speed=".8" src={work.img} alt="Klarus AI" width={600} height={450} loading="lazy" />
                             </div>
                             <div className="sec-6-home-8__meta">
                                 <span className="sec-6-home-8__title">{work.title}</span>

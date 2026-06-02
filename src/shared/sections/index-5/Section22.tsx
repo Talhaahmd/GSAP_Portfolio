@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import RevealText from "@/shared/effects/RevealText";
 
-// Home 5 Section 2 - Why Orisa / Portfolio area
+// Home 5 Section 2 - Why Klarus AI / Portfolio area
 
 const ARROW_SVG = (
     <svg width="11" height="11" viewBox="0 0 11 11" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -81,8 +81,8 @@ export default function Section2() {
                             <div className="col-xxl-1 col-lg-2">
                                 <span className="at-btn common-black bg-transparent mb-10 rounded-0 p-0">
                                     <span className="text-uppercase">
-                                        <span className="text-1">why orisa</span>
-                                        <span className="text-2">why orisa</span>
+                                        <span className="text-1">why klarus ai</span>
+                                        <span className="text-2">why klarus ai</span>
                                     </span>
                                     <i>
                                         {ARROW_SVG}
@@ -189,7 +189,7 @@ export default function Section2() {
                                                 <div key={i} className="sec-2-home-5__avatar-sm">
                                                     <img
                                                         src={src}
-                                                        alt="orisa"
+                                                        alt="Klarus AI"
                                                         width={65}
                                                         height={65}
                                                         className="img-cover" loading="lazy" />
@@ -233,7 +233,7 @@ export default function Section2() {
                                         <div className="p-absolute bottom-0 end-0">
                                             <img
                                                 src="/assets/imgs/pages/img-105.webp"
-                                                alt="orisa"
+                                                alt="Klarus AI"
                                                 width={447}
                                                 height={103}
                                                 className="at_fade_anim"

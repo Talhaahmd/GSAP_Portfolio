@@ -54,7 +54,7 @@ export default function Section10() {
                     <div className="col-lg-4 col-12">
                         <div className="alt-portfolio-item mb-30 at-hover-item">
                             <Link to="/blog-details" className="alt-portfolio-thumb rounded-0 mb-15 p-relative fix d-block">
-                                <img className="w-100 scale-img-from-to" data-value-1="1.5" data-value-2="1" src="/assets/imgs/pages/home-8/sec-10-1.webp" alt="orisa" width={600} height={450} loading="lazy" />
+                                <img className="w-100 scale-img-from-to" data-value-1="1.5" data-value-2="1" src="/assets/imgs/pages/home-8/sec-10-1.webp" alt="Klarus AI" width={600} height={450} loading="lazy" />
                                 <div className="alt-portfolio-btn start-0 end-0 mx-4">
                                     <div className="content">
                                         <span className="bg-transparent text-uppercase border px-3 py-1 rounded-pill text-white fz-font-label">ui design</span>
@@ -71,7 +71,7 @@ export default function Section10() {
                             <div className="blog-card__thumb rounded-0 hover-effect-1">
                                 <Link to="/blog-details" className="blog-card__img-link">
                                     <span className="anim-zoomin">
-                                        <img src="/assets/imgs/pages/home-8/sec-10-2.webp" className="blog-card__img" alt="orisa" width={600} height={400} loading="lazy" />
+                                        <img src="/assets/imgs/pages/home-8/sec-10-2.webp" className="blog-card__img" alt="Klarus AI" width={600} height={400} loading="lazy" />
                                     </span>
                                 </Link>
                             </div>
@@ -93,7 +93,7 @@ export default function Section10() {
                             <div className="blog-card__thumb rounded-0 hover-effect-1">
                                 <Link to="/blog-details" className="blog-card__img-link">
                                     <span className="anim-zoomin">
-                                        <img src="/assets/imgs/pages/home-8/sec-10-3.webp" className="blog-card__img" alt="orisa" width={600} height={400} loading="lazy" />
+                                        <img src="/assets/imgs/pages/home-8/sec-10-3.webp" className="blog-card__img" alt="Klarus AI" width={600} height={400} loading="lazy" />
                                     </span>
                                 </Link>
                             </div>

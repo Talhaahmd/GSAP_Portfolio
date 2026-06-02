@@ -118,7 +118,7 @@ export default function Section4() {
                                     <div className="sec-4-home-9__visual">
                                         <Link to="/portfolio-details-1" className="sec-4-home-9__visual-link cursor-hide">
                                             <div className="fix anim-zoomin">
-                                                <img src={card.img} alt="orisa" width={600} height={450} loading="lazy" />
+                                                <img src={card.img} alt="Klarus AI" width={600} height={450} loading="lazy" />
                                             </div>
                                             <div className="sec-4-home-9__overlay">
                                                 <span className="sec-4-home-9__tag">{card.tag}</span>
@@ -151,7 +151,7 @@ export default function Section4() {
                                     <div className="sec-4-home-9__visual">
                                         <Link to="/portfolio-details-1" className="sec-4-home-9__visual-link cursor-hide">
                                             <div className="fix anim-zoomin">
-                                                <img src={card.img} alt="orisa" width={600} height={450} loading="lazy" />
+                                                <img src={card.img} alt="Klarus AI" width={600} height={450} loading="lazy" />
                                             </div>
                                             <div className="sec-4-home-9__overlay">
                                                 <span className="sec-4-home-9__tag">{card.tag}</span>
@@ -175,7 +175,7 @@ export default function Section4() {
 
                     <div className="sec-4-home-9__cta">
                         <p className="sec-4-home-9__cta-text reveal-text">
-                            <RevealText>Orisa is a digital agency creating impactful digital experiences. We think like strategists and execute with clarity, creativity, and performance.</RevealText>
+                            <RevealText>Klarus AI is a digital agency building impactful AI solutions. We think like strategists and execute with clarity, creativity, and performance.</RevealText>
                         </p>
                         <Link className="at-btn at_fade_anim" to="/contact-1" data-delay=".5">
                             <span>

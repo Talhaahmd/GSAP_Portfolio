@@ -48,13 +48,13 @@ export default function Section1() {
                         className="layer"
                         data-depth=".1"
                         src="/assets/imgs/pages/img-1.webp"
-                        alt="orisa"
+                        alt="Klarus AI"
                         style={{ width: "auto", height: "auto", alignSelf: "flex-end" }} loading="lazy" />
                 </div>
                 <div className="container p-relative">
                     <div className="p-absolute bottom-100 start-0 ms-5 mb-100 d-none d-lg-block">
                         <a
-                            href="mailto:hello@orisa.com"
+                            href="mailto:info@klarus.io"
                             className="at-hero-button at-btn bg-transparent p-relative"
                         >
                             <img

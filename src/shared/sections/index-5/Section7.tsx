@@ -37,7 +37,7 @@ const TESTIMONIALS: TestimonialItem[] = [
         roleLine: "CTO\nNexusTech",
         avatar: "/assets/imgs/template/avatar/avatar-10.webp",
         quote:
-            '"Orisa doesn\'t just build models; he builds engines for growth. His ability to deploy complex architectures with 99.9% reliability is what sets his work apart."',
+            '"Klarus AI doesn\'t just build models; he builds engines for growth. His ability to deploy complex architectures with 99.9% reliability is what sets his work apart."',
         headerFirst: true,
         orderClass: "order-1",
     },
@@ -55,7 +55,7 @@ const TESTIMONIALS: TestimonialItem[] = [
         roleLine: "Head of AI\nSynthetix Systems",
         avatar: "/assets/imgs/template/avatar/avatar-16.webp",
         quote:
-            '"Orisa possesses a rare architectural intuition. He successfully optimized our legacy neural networks, reducing latency by 40% without compromising on model accuracy."',
+            '"Klarus AI possesses a rare architectural intuition. He successfully optimized our legacy neural networks, reducing latency by 40% without compromising on model accuracy."',
         headerFirst: true,
         orderClass: "order-md-3 order-2",
     },
@@ -84,7 +84,7 @@ function TestimonialCard({ item }: { item: TestimonialItem }) {
                 <div className="sec-2-home-5__avatar-sm">
                     <img
                         src={item.avatar}
-                        alt="orisa"
+                        alt="Klarus AI"
                         width={65}
                         height={65}
                         className="img-cover" loading="lazy" />
@@ -124,7 +124,7 @@ function TestimonialCard({ item }: { item: TestimonialItem }) {
                             <div className="sec-2-home-5__avatar-sm">
                                 <img
                                     src={item.avatar}
-                                    alt="orisa"
+                                    alt="Klarus AI"
                                     width={65}
                                     height={65}
                                     className="img-cover" loading="lazy" />
@@ -179,7 +179,7 @@ export default function Section7() {
                                     <Link to="tel:+2125557398">+212-555-7398</Link>
                                 </h6>
                                 <h6 className="fw-600">
-                                    <Link to="mailto:hello@orisa.com">hello@orisa.com</Link>
+                                    <Link to="mailto:info@klarus.io">info@klarus.io</Link>
                                 </h6>
                             </div>
                         </div>
@@ -204,7 +204,7 @@ export default function Section7() {
                                     <div className="anim-zoomin">
                                         <img
                                             src="/assets/imgs/pages/img-112.webp"
-                                            alt="orisa"
+                                            alt="Klarus AI"
                                             width={450}
                                             height={500}
                                             className="img-cover" loading="lazy" />

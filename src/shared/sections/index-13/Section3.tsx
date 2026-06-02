@@ -49,7 +49,7 @@ export default function Section3() {
                                 </Link>
                             </div>
                             <Link className="sec-3-home-13__card-media anim-zoomin-wrap" to={p.link}>
-                                <img className="anim-zoomin" data-speed=".8" src={`/assets/imgs/pages/home-13/${p.img}`} alt="Orisa" loading="lazy" />
+                                <img className="anim-zoomin" data-speed=".8" src={`/assets/imgs/pages/home-13/${p.img}`} alt="Klarus AI" loading="lazy" />
                             </Link>
                             <div className="sec-3-home-13__card-info">
                                 <p className="sec-3-home-13__card-desc mb-0">{p.desc}</p>

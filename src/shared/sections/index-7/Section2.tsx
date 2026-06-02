@@ -44,9 +44,9 @@ const STAT_DATA = [
 ];
 
 const IMG_DATA = [
-    { src: "/assets/imgs/pages/home-7/sec2-img-1.webp", alt: "orisa" },
-    { src: "/assets/imgs/pages/home-7/sec2-img-2.webp", alt: "orisa" },
-    { src: "/assets/imgs/pages/home-7/sec2-img-3.webp", alt: "orisa" },
+    { src: "/assets/imgs/pages/home-7/sec2-img-1.webp", alt: "Klarus AI" },
+    { src: "/assets/imgs/pages/home-7/sec2-img-2.webp", alt: "Klarus AI" },
+    { src: "/assets/imgs/pages/home-7/sec2-img-3.webp", alt: "Klarus AI" },
 ];
 
 const EYEBROW_ARROW_SVG = (
@@ -73,7 +73,7 @@ export default function Section2() {
                     <div className="col-lg-5 col-12 mt-4 mt-lg-0 ps-lg-4 d-flex align-items-end">
                         <p className="sec-2-home-7__desc mb-0 reveal-text">
                             <RevealText>
-                                <strong>Orisa</strong> is more than a design agency; we are a strategic partner for founders who dare to disrupt. We <strong>combine rapid</strong> prototyping with world-class engineering to <strong>turn bold</strong> visions into market-leading digital products.
+                                <strong>Klarus AI</strong> is more than a design agency; we are a strategic partner for founders who dare to disrupt. We <strong>combine rapid</strong> prototyping with world-class engineering to <strong>turn bold</strong> visions into market-leading digital products.
                             </RevealText>
                         </p>
                     </div>

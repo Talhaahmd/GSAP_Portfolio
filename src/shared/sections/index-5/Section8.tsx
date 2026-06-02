@@ -96,7 +96,7 @@ export default function Section8() {
                                         data-value-1="1.5"
                                         data-value-2="1"
                                         src="/assets/imgs/pages/img-113.webp"
-                                        alt="orisa"
+                                        alt="Klarus AI"
                                         width={550}
                                         height={650} loading="lazy" />
                                     <span className="alt-portfolio-btn start-0 end-0 mx-4">
@@ -127,7 +127,7 @@ export default function Section8() {
                                                 <img
                                                     src={post.img}
                                                     className="blog-card__img"
-                                                    alt="orisa"
+                                                    alt="Klarus AI"
                                                     width={500}
                                                     height={300} loading="lazy" />
                                             </span>

@@ -7,7 +7,7 @@ import Section4 from "@/shared/sections/product-details/Section3";
 export default function ProductDetailsPage() {
   return (
     <>
-      <PageMeta title="Orisa - ProductDetails" />
+      <PageMeta title="Klarus AI - ProductDetails" />
                 <Section1 />
                 <Section2 classList="bg-neutral-0" />
                 <Section3 />

@@ -185,7 +185,7 @@ export default function Section3() {
                                                 <div className="testimonial-left-img">
                                                     <img
                                                         src={item.avatar}
-                                                        alt="orisa"
+                                                        alt="Klarus AI"
                                                         width={64}
                                                         height={64}
                                                         className="img-cover" loading="lazy" />

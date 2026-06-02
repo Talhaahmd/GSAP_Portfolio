@@ -53,7 +53,7 @@ export default function Section5() {
                             <Link className="sec-5-home-14__row-link" to="/services-1">
                                 <span className="sec-5-home-14__row-num">[ <span className="text-scramble" data-scramble-text={s.num}>{s.num}</span> ]</span>
                                 <span className="sec-5-home-14__row-icon">
-                                    <img src={`/assets/imgs/pages/home-14/${s.icon}`} alt="Orisa" loading="lazy" />
+                                    <img src={`/assets/imgs/pages/home-14/${s.icon}`} alt="Klarus AI" loading="lazy" />
                                 </span>
                                 <span className="sec-5-home-14__row-meta">
                                     <span className="sec-5-home-14__row-title">{s.title}</span>

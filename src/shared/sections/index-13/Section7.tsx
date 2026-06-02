@@ -48,7 +48,7 @@ export default function Section7() {
                         <div className="swiper-wrapper">
                             {TESTIMONIALS.map((t, i) => (
                                 <div key={i} className="swiper-slide">
-                                    <img src={`/assets/imgs/pages/home-13/${t.img}`} alt="Orisa" loading="lazy" />
+                                    <img src={`/assets/imgs/pages/home-13/${t.img}`} alt="Klarus AI" loading="lazy" />
                                 </div>
                             ))}
                         </div>

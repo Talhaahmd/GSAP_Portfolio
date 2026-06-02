@@ -10,7 +10,7 @@ const LOGO_HEIGHT_DESKTOP = 70;
  * wrap slides in viewport/track, shuffle order, clone first slide, and run an
  * infinite GSAP timeline (pause → scroll to next → reset).
  *
- * Direct port of `3.Orisa-Nextjs/components/effects/AtBrandScrollEffect.tsx`.
+ * Direct port of `3.Klarus AI-Nextjs/components/effects/AtBrandScrollEffect.tsx`.
  */
 export default function AtBrandScrollEffect() {
   const timelinesRef = useRef<Killable[]>([]);

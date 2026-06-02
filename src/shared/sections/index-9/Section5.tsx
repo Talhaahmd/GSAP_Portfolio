@@ -29,7 +29,7 @@ export default function Section5() {
                     <img
                         className="sec-5-home-9__bg-img"
                         src="/assets/imgs/pages/home-9/sec-5-img-1.webp"
-                        alt="orisa"
+                        alt="Klarus AI"
                         width={1024}
                         height={512}
                         loading="lazy"
@@ -60,7 +60,7 @@ export default function Section5() {
                             <div className="sec-5-home-9__block">
                                 <p className="sec-5-home-9__label text-white">Message</p>
                                 <p className="sec-5-home-9__value mb-0 text-white">
-                                    <a className="sec-5-home-9__mailto text-white" href="mailto:hello@orisa.com">hello@orisa.com</a>
+                                    <a className="sec-5-home-9__mailto text-white" href="mailto:info@klarus.io">info@klarus.io</a>
                                 </p>
                             </div>
                         </div>

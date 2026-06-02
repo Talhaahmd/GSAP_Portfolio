@@ -52,7 +52,7 @@ export default function Section5() {
                                 <p className="sec-5-home-15__phase-desc">{p.desc}</p>
                                 <p className="sec-5-home-15__phase-duration">{p.duration}</p>
                                 <div className="sec-5-home-15__phase-thumb anim-zoomin-wrap mt-3">
-                                    <img className="sec-5-home-15__phase-img anim-zoomin" src={`/assets/imgs/pages/home-15/${p.img}`} alt="Orisa" loading="lazy" />
+                                    <img className="sec-5-home-15__phase-img anim-zoomin" src={`/assets/imgs/pages/home-15/${p.img}`} alt="Klarus AI" loading="lazy" />
                                 </div>
                             </article>
                         </div>

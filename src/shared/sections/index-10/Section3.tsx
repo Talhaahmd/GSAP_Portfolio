@@ -78,7 +78,7 @@ export default function Section3() {
                     <div className="col-xl-5 col-lg-6">
                         <p className="sec-3-home-10__intro mb-0 at_fade_anim reveal-text" data-delay="0.15">
                             <RevealText>
-                                <strong>Orisa</strong> is more than a design agency; we are a strategic partner for founders who dare to disrupt. We <strong>combine rapid</strong> prototyping with world-class engineering to <strong>turn bold</strong> visions into market-leading digital products.
+                                <strong>Klarus AI</strong> is more than a design agency; we are a strategic partner for founders who dare to disrupt. We <strong>combine rapid</strong> prototyping with world-class engineering to <strong>turn bold</strong> visions into market-leading digital products.
                             </RevealText>
                         </p>
                     </div>
@@ -98,7 +98,7 @@ export default function Section3() {
                                 <div className="anim-zoomin">
                                     <img
                                         src={project.img}
-                                        alt="orisa"
+                                        alt="Klarus AI"
                                         width={800}
                                         height={600} loading="lazy" />
                                 </div>

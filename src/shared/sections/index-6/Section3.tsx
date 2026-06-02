@@ -184,7 +184,7 @@ export default function Section3() {
               <div className="content">
                 <h5 className="h6 text-uppercase indent mb-30 reveal-text">
                   <RevealText>
-                    Orisa is a digital agency creating impactful digital
+                    Klarus AI is a digital agency creating impactful digital
                     experiences. We think like strategists and execute with
                     clarity, creativity, and performance.
                   </RevealText>

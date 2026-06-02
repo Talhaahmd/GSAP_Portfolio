@@ -96,12 +96,12 @@ export default function Section3() {
                     <div className="col-12">
                         <div className="d-flex flex-wrap align-items-center justify-content-center">
                             <Link
-                                to="mailto:hello@orisa.com"
+                                to="mailto:info@klarus.io"
                                 className="at-btn bg-transparent p-relative"
                             >
                                 <img
                                     src="/assets/imgs/icons/badge-1.svg"
-                                    alt="orisa"
+                                    alt="Klarus AI"
                                     width={140}
                                     height={140} loading="lazy" />
                                 <span className="position-absolute top-50 start-50 translate-middle d-flex flex-column align-items-center justify-content-center">

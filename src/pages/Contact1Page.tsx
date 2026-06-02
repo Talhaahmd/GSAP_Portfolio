@@ -5,7 +5,7 @@ import Section2 from "@/shared/sections/about-2/Section4";
 export default function Contact1Page() {
   return (
     <>
-      <PageMeta title="Orisa - Contact1" />
+      <PageMeta title="Klarus AI - Contact1" />
             <Section1 />
             <Section2 />
         

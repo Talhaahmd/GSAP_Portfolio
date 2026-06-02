@@ -8,7 +8,7 @@ import Section5 from "@/shared/sections/index-5/Section8";
 export default function ProductArchivePage() {
   return (
     <>
-      <PageMeta title="Orisa - ProductArchive" />
+      <PageMeta title="Klarus AI - ProductArchive" />
                 <Section1 />
                 <Section2 />
                 <Section3 classList="bg-neutral-50" />

@@ -71,10 +71,10 @@ export default function Section1() {
     }, []);
 
     return (
-        <section className="sec-1-home-13 pt-160" aria-label="Orisa Architecture Hero">
+        <section className="sec-1-home-13 pt-160" aria-label="Klarus AI Architecture Hero">
             <div className="sec-1-home-13__inner">
                 <div className="sec-1-home-13__top">
-                    <h1 className="sec-1-home-13__brand mb-0 text-scale-anim">Orisa<sup>&reg;</sup> Architecture</h1>
+                    <h1 className="sec-1-home-13__brand mb-0 text-scale-anim">Klarus AI<sup>&reg;</sup> Architecture</h1>
                     <Link className="sec-1-home-13__since text-scramble" to="/about-1">&copy; Since 2012</Link>
                 </div>
 
@@ -118,7 +118,7 @@ export default function Section1() {
                             {SERVICES.map((srv, i) => (
                                 <button key={i} type="button" className="swiper-slide sec-1-home-13__service" aria-label={`View ${srv.name}`}>
                                     <span className="sec-1-home-13__service-img">
-                                        <img src={`/assets/imgs/pages/home-13/${srv.icon}`} alt="Orisa" loading="lazy" />
+                                        <img src={`/assets/imgs/pages/home-13/${srv.icon}`} alt="Klarus AI" loading="lazy" />
                                     </span>
                                     <span className="sec-1-home-13__service-meta">
                                         <span className="sec-1-home-13__service-num">{srv.num}</span>

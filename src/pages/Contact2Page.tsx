@@ -7,7 +7,7 @@ export default function Contact2Page() {
       <PageMeta title="Klarus AI - Contact" />
       <div className="pt-85">
         <div className="at-banner-thumb overflow-hidden scale-up-img pt-md-0 pt-20">
-          <img className="img-cover scale-up" data-speed=".8" src="/assets/imgs/pages/img-119.webp" alt="orisa" width={1920} height={800} loading="lazy" />
+          <img className="img-cover scale-up" data-speed=".8" src="/assets/imgs/pages/img-119.webp" alt="Klarus AI" width={1920} height={800} loading="lazy" />
         </div>
       </div>
       <Section1 />

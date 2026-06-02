@@ -79,7 +79,7 @@ export default function Section3() {
                     </div>
                     <div className="col-lg-5">
                         <p className="mb-0 at_fade_anim" data-delay=".25" data-fade-from="right">
-                            Founded in 2019, Orisa Motion is an independent creative studio specialising in branded film, motion design, and visual effects. We work with challenger brands, cultural institutions, and Fortune 500 companies to craft stories that move people -- literally.
+                            Klarus AI is a Toronto-based AI automation agency specialising in branded film, motion design, and visual effects. We work with challenger brands, cultural institutions, and Fortune 500 companies to craft stories that move people -- literally.
                         </p>
                     </div>
                 </div>
@@ -93,7 +93,7 @@ export default function Section3() {
                                 <img
                                     className="anim-zoomin sec-3-home-11__img w-100"
                                     src="/assets/imgs/pages/home-11/img-1.webp"
-                                    alt="Orisa studio workspace"
+                                    alt="Klarus AI workspace"
                                     width={800}
                                     height={1100}
                                     loading="lazy"
@@ -182,7 +182,7 @@ export default function Section3() {
                                 <img
                                     className="anim-zoomin sec-3-home-11__img w-100"
                                     src="/assets/imgs/pages/home-11/img-2.webp"
-                                    alt="Orisa team at work"
+                                    alt="Klarus AI team"
                                     width={600}
                                     height={700}
                                     loading="lazy"

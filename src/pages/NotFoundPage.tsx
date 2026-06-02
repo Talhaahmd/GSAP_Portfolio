@@ -35,7 +35,7 @@ const ARROW_UP_LEFT_SVG = (
 export default function NotFoundPage() {
     return (
         <>
-            <PageMeta title="Orisa - 404" />
+            <PageMeta title="Klarus AI - 404" />
             <section className="sec-1-404 overflow-hidden pt-150">
                 <div className="container">
                     <div className="row">

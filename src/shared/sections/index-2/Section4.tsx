@@ -113,7 +113,7 @@ export default function Section4({ className }: Section4Props) {
                                             <div className="rounded-4 overflow-hidden">
                                                 <img
                                                     src={service.image}
-                                                    alt="orisa"
+                                                    alt="Klarus AI"
                                                     width={600}
                                                     height={400}
                                                     className="img-cover" loading="lazy" />

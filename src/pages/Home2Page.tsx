@@ -16,7 +16,7 @@ import Section13 from "@/shared/sections/index-2/Section13";
 export default function Home2Page() {
   return (
     <>
-      <PageMeta title="Orisa - Home2" />
+      <PageMeta title="Klarus AI - Home2" />
                 <Section1 />
                 <Section2 />
                 <Section3 />

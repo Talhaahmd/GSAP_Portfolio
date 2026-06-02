@@ -80,7 +80,7 @@ export default function Section2() {
                                         <img
                                             className="img-cover rounded-2"
                                             src={topic.image}
-                                            alt="orisa"
+                                            alt="Klarus AI"
                                             width={400}
                                             height={260} loading="lazy" />
                                     </div>

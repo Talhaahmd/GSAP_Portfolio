@@ -17,7 +17,7 @@ const testimonials = [
     {
         img: "/assets/imgs/pages/home-9/testimonial-1.webp",
         logo: "/assets/imgs/pages/home-9/logo-3.svg",
-        quote: "Orisa didn't just build us a website; they engineered a digital experience that mirrors our ambition. The integration of GSAP motion and high-performance code has set a new benchmark in our industry. Truly the modern standard.",
+        quote: "Klarus AI didn't just build us a website; they engineered a digital experience that mirrors our ambition. The integration of GSAP motion and high-performance code has set a new benchmark in our industry. Truly the modern standard.",
         name: "Amelia Wright",
         position: "Head of Marketing",
     },
@@ -31,7 +31,7 @@ const testimonials = [
     {
         img: "/assets/imgs/pages/home-9/testimonial-3.webp",
         logo: "/assets/imgs/pages/home-9/logo-2.svg",
-        quote: "Scalability was our biggest concern, but Orisa delivered a design system that is both flexible and robust. They are more than an agency; they are strategic partners who understand the pulse of the modern digital landscape.",
+        quote: "Scalability was our biggest concern, but Klarus AI delivered a system that is both flexible and robust. They are more than an agency; they are strategic partners who understand the pulse of the modern digital landscape.",
         name: "Marcus Thorne",
         position: "Marketing Director at GlobalStream",
     },
@@ -75,7 +75,7 @@ export default function Section8() {
                                 <div className="testimonial-img anim-zoomin-wrap">
                                     <img
                                         src={item.img}
-                                        alt="orisa"
+                                        alt="Klarus AI"
                                         className="anim-zoomin"
                                         width={400}
                                         height={300} loading="lazy" />
@@ -84,7 +84,7 @@ export default function Section8() {
                                     <p className="testimonial-quote">&quot;{item.quote}&quot;</p>
                                     <div className="testimonial-author">
                                         <div className="author-logo">
-                                            <img src={item.logo} alt="orisa" width={80} height={30} loading="lazy" />
+                                            <img src={item.logo} alt="Klarus AI" width={80} height={30} loading="lazy" />
                                         </div>
                                         <div className="author-info">
                                             <h6 className="author-name neutral-950 m-0 fw-600">{item.name}</h6>

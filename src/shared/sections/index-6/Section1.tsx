@@ -54,7 +54,7 @@ export default function Section1() {
         <div className="row align-items-end">
           <div className="col-12">
             <h2 className="fz-240 neutral-0 text-uppercase fw-600 d-flex align-items-center flex-wrap">
-              Orisa
+              Klarus AI
               <span className="d-lg-none d-block"> Studio</span>
               <sup className="fz-80 fw-400">&reg;</sup>
             </h2>

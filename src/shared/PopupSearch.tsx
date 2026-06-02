@@ -38,8 +38,8 @@ export default function PopupSearch({ open, onClose }: PopupSearchProps) {
               <div className="at-search-top d-flex justify-content-between align-items-center">
                 <div className="at-header-logo at-search-logo">
                   <Link to="/" className="text-decoration-none d-inline-flex align-items-center gap-2">
-                    <img data-width="30" src="/assets/imgs/template/logo/favicon.svg" alt="Orisa" />
-                    <h6 className="fw-700 fz-24 mb-0">Orisa</h6>
+                    <img data-width="30" src="/assets/imgs/template/logo/favicon.svg" alt="Klarus AI" />
+                    <h6 className="fw-700 fz-24 mb-0">Klarus AI</h6>
                   </Link>
                 </div>
                 <button type="button" className="at-search-close" onClick={onClose} aria-label="Close search">

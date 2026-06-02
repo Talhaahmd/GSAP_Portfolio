@@ -19,7 +19,7 @@ export default function Section4() {
                     {PROCESS.map((p) => (
                         <div key={p.title} className="card-home-12-process at_fade_anim" data-fade-from="bottom" data-delay={p.delay}>
                             <div className="card-home-12-process__image anim-zoomin-wrap">
-                                <img className="card-home-12-process__img anim-zoomin" src={`/assets/imgs/pages/home-12/${p.img}`} alt="Orisa" loading="lazy" />
+                                <img className="card-home-12-process__img anim-zoomin" src={`/assets/imgs/pages/home-12/${p.img}`} alt="Klarus AI" loading="lazy" />
                             </div>
                             <div className="card-home-12-process__text">
                                 <h3 className="card-home-12-process__title">{p.title}</h3>
